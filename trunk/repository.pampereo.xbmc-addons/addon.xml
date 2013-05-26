@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="repository.pampereo.xbmc-addons" name="Pampereo XBMC Add-on Repository" version="1.0.0" provider-name="pampereo">
+    <extension point="xbmc.addon.repository" name="Pampereo XBMC Add-on Repository">
+        <info compressed="false">https://github.com/pampereo/xbmc-plugins/blob/master/addons.xml</info>
+        <checksum>https://github.com/pampereo/xbmc-plugins/blob/master/addons.xml.md5</checksum>
+        <datadir zip="true">https://github.com/pampereo/xbmc-plugins/tree/master/repo</datadir>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <summary>Pampereo Plugins Collection</summary>
+        <description>Misc Plugins</description>
+        <platform>all</platform>
+    </extension>
+</addon>
