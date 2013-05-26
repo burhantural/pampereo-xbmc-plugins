@@ -1,5 +1,26 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addons>
+<addon
+  id="plugin.video.bokra"
+  version="1.2.0"
+  name="BOKRA"
+  provider-name="Bisha">
+  <requires>
+    <import addon="xbmc.python"
+            version="1.2"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource"
+             library="default.py">
+    <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary>Bokra vod Arabic plugin</summary>
+    <description>Bokra Arabic plugin.</description>
+
+    <platform>all</platform>
+  </extension>
+</addon>
+
 <addon id="plugin.video.teledunet"
        name="Teledunet.com"
        version="1.0.8"
@@ -25,7 +46,7 @@ It broadcasts channels through the internet 24/7. The service is completely free
     <extension point="xbmc.addon.repository" name="Pampereo XBMC Add-on Repository">
         <info compressed="false">http://pampereo-xbmc-plugins.googlecode.com/svn/trunk/addons.xml</info>
         <checksum>http://pampereo-xbmc-plugins.googlecode.com/svn/trunk/addons.xml.md5</checksum>
-        <datadir zip="true">http://pampereo-xbmc-plugins.googlecode.com/svn/trunk/repo</datadir>
+        <datadir zip="false">http://pampereo-xbmc-plugins.googlecode.com/svn/trunk</datadir>
     </extension>
     <extension point="xbmc.addon.metadata">
         <summary>Pampereo Plugins Collection</summary>
