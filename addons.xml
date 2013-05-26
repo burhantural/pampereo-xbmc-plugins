@@ -23,9 +23,9 @@ It broadcasts channels through the internet 24/7. The service is completely free
 
 <addon id="repository.pampereo.xbmc-addons" name="Pampereo XBMC Add-on Repository" version="1.0.0" provider-name="pampereo">
     <extension point="xbmc.addon.repository" name="Pampereo XBMC Add-on Repository">
-        <info compressed="false">https://github.com/pampereo/xbmc-plugins/blob/master/addons.xml</info>
-        <checksum>https://github.com/pampereo/xbmc-plugins/blob/master/addons.xml.md5</checksum>
-        <datadir zip="true">https://github.com/pampereo/xbmc-plugins/tree/master/repo</datadir>
+        <info compressed="false">https://pampereo-xbmc-plugins.googlecode.com/svn/trunk/addons.xml</info>
+        <checksum>https://pampereo-xbmc-plugins.googlecode.com/svn/trunk/addons.xml.md5</checksum>
+        <datadir zip="false">https://pampereo-xbmc-plugins.googlecode.com/svn/trunk/</datadir>
     </extension>
     <extension point="xbmc.addon.metadata">
         <summary>Pampereo Plugins Collection</summary>
