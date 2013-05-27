@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<addon
+  id="plugin.video.farfesh"
+  version="1"
+  name="Farfesh.com !"
+  provider-name="Author of the Shahid plugin">
+  <requires>
+    <import addon="xbmc.python"
+            version="1.0"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource"
+             library="default.py">
+    <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary>Farfesh.com Arabic plugin</summary>
+    <description>Farfesh Arabic plugin.</description>
+   
+    <platform>all</platform>
+  </extension>
+</addon>

@@ -1,5 +1,67 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addons>
+<addon id="plugin.video.1channel" version="2.0.1" name="1Channel" provider-name="Bstrdsmkr">
+    <requires>
+        <import addon="xbmc.python" version="2.0"/>
+        <import addon="script.module.urlresolver"  version="1.0.0"/>
+        <import addon="script.module.t0mm0.common" version="1.1.0"/>
+		<import addon="script.module.metahandler"  version="1.0.0"/>
+		<import addon="script.module.myconnpy"     version="0.3.2"/>
+    </requires>
+    <extension point="xbmc.python.pluginsource" library="default.py">
+        <provides>video</provides>
+    </extension>
+    <extension point="xbmc.service" library="service.py" start="startup">
+	</extension>
+    <extension point="xbmc.addon.metadata">
+        <summary>Browse 1channel.ch</summary>
+        <description>This addon is supported at [COLOR blue]www.XBMCHub.com[/COLOR],  [COLOR white][B]NOT[/B][/COLOR] [COLOR red]xbmc.org[/COLOR].  Play a wide selection of movies and TV shows from 1channel.ch</description>
+        <platform>all</platform>
+    </extension>
+</addon>
+
+<addon
+  id="plugin.video.alarab"
+  version="1.6.0"
+  name="ALARAB"
+  provider-name="Bisha">
+  <requires>
+    <import addon="xbmc.python"
+            version="2.0"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource"
+             library="default.py">
+    <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary>Alarab VOD Arabic plugin by BISHA</summary>
+    <description>Alarab VOD Arabic plugin by BISHA</description>
+
+    <platform>all</platform>
+  </extension>
+</addon>
+
+<addon
+  id="plugin.video.arabchannels"
+  version="1.0.3"
+  name="Arabic Live Streams"
+  provider-name="Bisha">
+  <requires>
+    <import addon="xbmc.python"
+            version="2.0"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource"
+             library="default.py">
+    <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary>Arabic TV channels from different providers</summary>
+    <description>Arabic TV channels from different providers</description>
+
+    <platform>all</platform>
+  </extension>
+</addon>
+
 <addon
   id="plugin.video.bokra"
   version="1.2.0"
@@ -16,6 +78,117 @@
   <extension point="xbmc.addon.metadata">
     <summary>Bokra vod Arabic plugin</summary>
     <description>Bokra Arabic plugin.</description>
+
+    <platform>all</platform>
+  </extension>
+</addon>
+
+<addon id="plugin.video.dailytube4u.com"
+       name="DailyTube4U.com"
+       version="1.0.2"
+       provider-name="hadynz">
+    <requires>
+        <import addon="xbmc.python" version="2.0"/>
+        <import addon="script.module.beautifulsoup" version="3.0.8"/>
+        <import addon="script.module.xbmcswift2" version="1.1.1" />
+    </requires>
+    <extension point="xbmc.python.pluginsource" library="default.py">
+        <provides>video</provides>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <summary>DailyTube4U.com</summary>
+        <description>Watch a huge variety of OnDemand online Arabic TV streams provided and maintained by dailytube4u.com.
+
+The service includes TV shows such as Al Qahera Al Youm, Al Bernameg, Akher Kalam, Nas Book, Ibrahim Wal Nas and others.
+        </description>
+        <platform>all</platform>
+    </extension>
+</addon>
+
+<addon
+  id="plugin.video.farfesh"
+  version="1"
+  name="Farfesh.com !"
+  provider-name="Author of the Shahid plugin">
+  <requires>
+    <import addon="xbmc.python"
+            version="1.0"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource"
+             library="default.py">
+    <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary>Farfesh.com Arabic plugin</summary>
+    <description>Farfesh Arabic plugin.</description>
+
+    <platform>all</platform>
+  </extension>
+</addon>
+
+<addon id="plugin.video.icefilms"
+       name="Icefilms"
+       version="1.1.31"
+       provider-name="Eldorado (originator: anarchintosh)">
+    <requires>
+        <import addon="xbmc.python" version="2.0"/>
+        <import addon="script.module.simplejson"/>
+        <import addon="script.module.elementtree"/>
+        <import addon="script.module.beautifulsoup"/>
+        <import addon="script.module.metahandler" version="1.0.0"/>
+        <import addon="script.module.t0mm0.common" version="1.1.0"/>
+        <import addon="script.common.plugin.cache" version="0.9.0"/>
+    </requires>
+    <extension point="xbmc.python.pluginsource"
+               library="default.py">
+        <provides>video</provides>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <platform>all</platform>
+        <summary>Stream and download scene releases from the links listed on Icefilms.info</summary>
+        <description>Visit www.xbmchub.com for support.
+
+Turns your XBMC into an instant free on-demand media-center. Stream and download to your library pure AVI scene releases, in DVD and HD720p quality. Browse and search the library of over 77,000 videos with metadata and posters. Never experience the frustration of dead video links!</description>
+    </extension>
+</addon>
+
+<addon
+  id="plugin.video.panet"
+  version="1.1.0"
+  name="Panet"
+  provider-name="Bisha">
+  <requires>
+    <import addon="xbmc.python"
+            version="1.1"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource"
+             library="default.py">
+    <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary>Panet vod Arabic plugin</summary>
+    <description>Panet Arabic plugin.</description>
+
+    <platform>all</platform>
+  </extension>
+</addon>
+
+<addon
+  id="plugin.video.shahid"
+  version="6"
+  name="Shahid MBC!"
+  provider-name="">
+  <requires>
+    <import addon="xbmc.python"
+            version="1.0"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource"
+             library="default.py">
+    <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary>Shahid MBC! video plugin</summary>
+    <description>Shahid MBC! video plugin.</description>
 
     <platform>all</platform>
   </extension>
@@ -40,6 +213,33 @@
 It broadcasts channels through the internet 24/7. The service is completely free to use and has a great compilation of channels to choose from.</description>
         <platform>all</platform>
     </extension>
+</addon>
+
+<addon id="plugin.video.xstream"
+	name="xStream"
+	version="2.0.19"
+	provider-name="Lynx187 (originator: murphy, MaxMustermann)">
+  <requires>
+    <import addon="script.module.urlresolver" version="1.0.7" />
+	<import addon="script.module.t0mm0.common" version="1.1.0" />
+    <import addon="script.module.metahandler" version="1.0.0" />
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+    <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="de">xStream</summary>
+    <description lang="de">xStream ist ein Addon, welches mit eigenen Plugins erweitert werden kann. Hiermit kann man Filme, Serien, etc. per Stream anschauen</description>
+    <summary lang="en">xStream</summary>
+    <description lang="en">Addon to watch streams from various film an series sites.</description>
+    <platform>all</platform>
+  </extension>
+  <extension point="xbmc.addon.repository"
+    name="xStream Repository">
+    <info>https://content.wuala.com/contents/Lynx187/xStream/addons.xml?dl=1</info>
+    <checksum>http://content.wuala.com/contents/Lynx187/xStream/addons.xml.md5?dl=1</checksum>
+    <datadir zip="true">http://content.wuala.com/contents/Lynx187/xStream</datadir>
+   </extension>
 </addon>
 
 <addon id="repository.pampereo.xbmc-addons" name="Pampereo XBMC Add-on Repository" version="1.0.0" provider-name="pampereo">
