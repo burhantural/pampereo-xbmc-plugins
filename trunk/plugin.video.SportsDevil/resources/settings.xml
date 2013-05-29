@@ -1,0 +1,7 @@
+<settings>
+    <category label="General">
+        <setting id="autoplay" type="bool" label="30270" default="true"/>
+        <setting type="sep" />
+        <setting id="download_path" type="folder" enable="eq(-1,true)" source="video" label="30008"  option="writeable" default=""/>
+   </category>
+</settings>                                                                                     
