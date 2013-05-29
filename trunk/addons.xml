@@ -170,6 +170,7 @@ Turns your XBMC into an instant free on-demand media-center. Stream and download
     <description>Panet Arabic plugin.</description>
 
     <platform>all</platform>
+    <broken>deprecated</broken>
   </extension>
 </addon>
 
