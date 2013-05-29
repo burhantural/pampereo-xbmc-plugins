@@ -9,6 +9,7 @@
 		<summary>Repo for my plugins</summary>
 		<description>Download and install addons from amiosamy</description>
 		<platform>all</platform>
+		<broken>deprecated</broken>
 	</extension>
 </addon>
 
