@@ -17,5 +17,6 @@
     <description>Farfesh Arabic plugin.</description>
    
     <platform>all</platform>
+	<broken>deprecated</broken>
   </extension>
 </addon>

@@ -1,0 +1,10 @@
+<settings>
+   <category label="TEST MODE">
+  		<setting label="DISABLE ONLINE MODE" type="bool" id="DISABLE_ONLINE_MODE" default="false" visible="true"/>
+		<setting label="DISABLE GOOGLE MODE" type="bool" id="DISABLE_GOOGLE_MODE" default="true" visible="true"/>
+   </category>
+   <category label="General">
+   	<setting label="NOTIFICATION TIME" type="slider" id="NOTIFICATION_TIME" default="2500" range="0,500,5000" option="int"/>
+   	<setting label="NOTIFICATION WEBSITE STATUS" type="bool" id="NOTIFICATION_WEBSITE_STATUS" default="true"/>
+   </category>
+</settings>
