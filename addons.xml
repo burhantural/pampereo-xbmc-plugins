@@ -172,6 +172,42 @@ Turns your XBMC into an instant free on-demand media-center. Stream and download
     </extension>
 </addon>
 
+<addon id="plugin.video.Melody Aflam"
+	name="Melody Aflam"
+	version="1.0.0"
+	provider-name="amio">
+  <requires>
+    <import addon="xbmc.python" version="2.0"/>
+    <import addon="plugin.video.youtube" version="3.0.0"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+    <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">Melody Aflam</summary>
+    <description lang="en">Melody Aflam</description>
+    <platform>all</platform>
+  </extension>
+</addon>
+
+<addon id="plugin.video.OldTimeToons"
+	name="Old Time Toons"
+	version="1.0.0"
+	provider-name="amio">
+  <requires>
+    <import addon="xbmc.python" version="2.0"/>
+    <import addon="plugin.video.youtube" version="3.0.0"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+    <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">OldTimeToons</summary>
+    <description lang="en">OldTimeToons</description>
+    <platform>all</platform>
+  </extension>
+</addon>
+
 <addon
   id="plugin.video.panet"
   version="1.1.0"
@@ -304,6 +340,19 @@ It broadcasts channels through the internet 24/7. The service is completely free
     <checksum>http://content.wuala.com/contents/Lynx187/xStream/addons.xml.md5?dl=1</checksum>
     <datadir zip="true">http://content.wuala.com/contents/Lynx187/xStream</datadir>
    </extension>
+</addon>
+
+<addon id="repository.amiosamy" name="All Addons by amiosamy" version="1.2" provider-name="amiosamy">
+	<extension point="xbmc.addon.repository" name="Addons from amiosamy">
+		<info compressed="false">https://github.com/amiosamy/my-plugins/blob/master/addon.xml</info>
+		<checksum>https://github.com/amiosamy/my-plugins/blob/master/addon.xml.md5</checksum>
+		<datadir zip="true">https://github.com/amiosamy/my-plugins/tree/master/zips</datadir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary>Repo for my plugins</summary>
+		<description>Download and install addons from amiosamy</description>
+		<platform>all</platform>
+	</extension>
 </addon>
 
 <addon id="repository.arabic.xbmc-addons" name="Arabic XBMC Add-on Repository" version="1.0.0" provider-name="hadynz">
