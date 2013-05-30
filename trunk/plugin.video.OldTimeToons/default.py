@@ -17,7 +17,7 @@ import os
 import sys
 import plugintools
 
-YOUTUBE_CHANNEL_ID = "OldTimeToons"
+YOUTUBE_CHANNEL_ID = "crtacibyanja"
 
 # Entry point
 def run():
