@@ -14,5 +14,6 @@
     <summary lang="en">OldTimeToons</summary>
     <description lang="en">OldTimeToons</description>
     <platform>all</platform>
+	</broken>deprecated<broken>
   </extension>
 </addon>
