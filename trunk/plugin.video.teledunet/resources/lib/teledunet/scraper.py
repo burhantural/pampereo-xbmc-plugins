@@ -22,7 +22,7 @@ def get(url):
     """Performs a GET request for the given url and returns the response"""
     try:
         conn = urlopen(url)
-        resp = conn.read()
+        resp = unicode(conn.read(), 'utf-8', errors='ignore')
         conn.close()
         return resp
     except IOError:
