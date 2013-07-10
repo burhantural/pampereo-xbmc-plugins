@@ -8,3 +8,4 @@
 1.0.7 - Cached fetching of channels for 20 minutes to dramatically speed up menu browsing
 1.0.8 - Updated Teledunet scraper code to handle dynamic chanels playpath and to show channels name after source website update. Blue colored HD channels get a blue font.
 1.0.9 - Minor fix to .read() function
+1.1.0 - Scraper changed due to changed website layout.
