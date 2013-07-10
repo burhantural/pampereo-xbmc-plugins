@@ -22,7 +22,7 @@ def get(url):
     """Performs a GET request for the given url and returns the response"""
     try:
         conn = urlopen(url)
-        resp = unicode(conn.read(), 'utf-8', errors='ignore')
+        resp = conn.read()
         conn.close()
         return resp
     except IOError:
@@ -40,6 +40,7 @@ def _get_channel_time_player(channel_name):
     req = Request(url)
     req.add_header('Referer', TELEDUNET_URL)    # Simulate request is coming from website
     html = get(req)
+    print html
 
     m = re.search('time_player=(.*);', html, re.M | re.I)
     time_player_str = eval(m.group(1))
@@ -47,7 +48,10 @@ def _get_channel_time_player(channel_name):
 
     m = re.search('curent_media=\'(.*)\';', html, re.M | re.I)
     rtmp_url = m.group(1)
-    play_path= rtmp_url[rtmp_url.rfind("/")+1:] 
+    play_path= rtmp_url[rtmp_url.rfind("/")+1:]
+    print "cplayer1 "+ rtmp_url
+    print "pp "+play_path
+    print "idk "+repr(time_player_str).rstrip('0').rstrip('.')
     return rtmp_url, play_path, repr(time_player_str).rstrip('0').rstrip('.')
 
 
@@ -93,19 +97,16 @@ def _parse_channels_from_html_dom(html):
     items = []
 
     for div in html.findAll("div", {"class": "div_channel"}):
-        is_working = '#009900' in div['style']
-        is_hd = '#0099ff' in div['style']
-        if is_working:
-           label_pattern = '[COLOR green]%s[/COLOR]'
-        elif is_hd:
-           label_pattern = '[COLOR blue]%s   [/COLOR][COLOR red]HD[/COLOR]'
-        else:
-           label_pattern = '%s'
-        path = re.sub('^.*\=', '', div.findAll('a')[1]['href'])
+        match2=re.compile('''<a href=".+?" onclick="go_c2.?'(.+?)'.+?'rtmp.+?'.?" style_=".+?"><img onerror=".+?" src="(.+?)" height=".+?" style=".+?" /><font style=".+?"> <span id=".+?">(.+?)</span> <font style=".+?">(.+?)</font>''').findall(str(div))
+        match=re.compile('''<a href=".+?" onclick="go_c2.?'(.+?)'.+?'rtmp.+?'.?" style_=".+?"><img onerror=".+?" src="(.+?)" height=".+?" style=".+?" /><font style=".+?"> <span id=".+?">(.+?)</span>''').findall(str(div))
+        for url,thumb,name in match:
+            for url2,thumb2,name2,hd in match2:
+                if name==name2:
+                    name=name+' [COLOR red]HD[/COLOR]'
         items.append({
-            'title': label_pattern % div.find('span').contents[0],
-            'thumbnail': div.findAll('img')[0]['src'],
-            'path': path
+            'title': name,
+            'thumbnail': thumb,
+            'path': url
         })
 
     return items
