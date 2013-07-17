@@ -344,9 +344,9 @@ It broadcasts channels through the internet 24/7. The service is completely free
 
 <addon
   id="pvr.iptvsimple"
-  version="0.1.1"
-  name="PVR IPTV Simple Client"
-  provider-name="Original nightik / Edited by pampereo">
+  version="0.1.0"
+  name="PVR IPTV Simple Client (Pampereo Repository)"
+  provider-name="Original nightik/Edited by pampereo">
   <requires>
     <c-pluff version="0.1"/>
   </requires>
