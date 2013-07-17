@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addon
-  id="pvr.iptvsimple"
+  id="pvr.iptvsimple-openelec"
   version="0.1.0"
   name="PVR IPTV Simple Client (Pampereo Repository)"
   provider-name="Original nightik/Edited by pampereo">
