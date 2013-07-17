@@ -273,8 +273,8 @@ Turns your XBMC into an instant free on-demand media-center. Stream and download
 
 <addon id="plugin.video.teledunet"
        name="Teledunet.com"
-       version="1.0.8"
-       provider-name="hadynz fixed by formee (unofficial updated version)">
+       version="1.1.0"
+       provider-name="hadynz fixed by formee/pampereo/mash2k3 (unofficial updated version)">
     <requires>
         <import addon="xbmc.python" version="2.0"/>
         <import addon="script.module.beautifulsoup" version="3.0.8"/>
@@ -340,6 +340,29 @@ It broadcasts channels through the internet 24/7. The service is completely free
     <checksum>http://content.wuala.com/contents/Lynx187/xStream/addons.xml.md5?dl=1</checksum>
     <datadir zip="true">http://content.wuala.com/contents/Lynx187/xStream</datadir>
    </extension>
+</addon>
+
+<addon
+  id="pvr.iptvsimple"
+  version="0.1.0"
+  name="PVR IPTV Simple Client"
+  provider-name="nightik">
+  <requires>
+    <c-pluff version="0.1"/>
+  </requires>
+  <extension
+    point="xbmc.pvrclient"
+    library_linux="XBMC_IPTV_Simple.pvr"
+    library_osx="XBMC_IPTV_Simple.pvr"
+    library_wingl="XBMC_IPTV_Simple_win32.dll"
+    library_windx="XBMC_IPTV_Simple_win32.dll"
+    library_android="libXBMC_IPTV_Simple.so" />
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">IPTV Simple PVR Client</summary>
+    <description lang="en">IPTV Simple PVR Client</description>
+    <disclaimer lang="en"></disclaimer>
+    <platform>linux windx wingl osx android</platform>
+  </extension>
 </addon>
 
 <addon id="repository.amiosamy" name="All Addons by amiosamy" version="1.2" provider-name="amiosamy">
