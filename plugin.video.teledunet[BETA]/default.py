@@ -56,7 +56,6 @@ def list_all_channels():
     
     return plugin.finish(items, sort_methods=['label'])
 
-
 '''
 def list_all_channels():
     channels = api.get_channels()
