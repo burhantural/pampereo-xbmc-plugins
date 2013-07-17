@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addon
-  id="pvr.iptvsimple"
+  id="pvr.iptvsimple-all"
   version="0.1.0"
-  name="PVR IPTV Simple Client (Pampereo Repository)"
+  name="PVR IPTV Simple Client All Platfroms"
   provider-name="Original nightik/Edited by pampereo">
   <requires>
     <c-pluff version="0.1"/>
