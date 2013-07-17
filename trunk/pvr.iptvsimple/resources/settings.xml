@@ -3,7 +3,7 @@
 	<setting id="sep1" label="30010" type="lsep"/> 
 	<setting id="m3uPathType" type="enum" label="30000" lvalues="30001|30002" default="1" />
 	<setting id="m3uPath" type="file" label="30011" default="" visible="eq(-1,0)"/>
-	<setting id="m3uUrl" type="text" label="30012" default="" visible="eq(-2,1)"/>
+	<setting id="m3uUrl" type="text" label="30012" default="http://pampereo-xbmc-plugins.googlecode.com/svn/playlists/playlist.m3u" visible="eq(-2,1)"/>
 
 	<setting id="sep2" label="30020" type="lsep"/>
 	<setting id="epgPathType" type="enum" label="30000" lvalues="30001|30002" default="1" />
