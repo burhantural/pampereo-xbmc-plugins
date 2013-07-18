@@ -205,6 +205,7 @@ Turns your XBMC into an instant free on-demand media-center. Stream and download
     <summary lang="en">OldTimeToons</summary>
     <description lang="en">OldTimeToons</description>
     <platform>all</platform>
+	<broken>deprecated</broken>
   </extension>
 </addon>
 
@@ -390,6 +391,19 @@ It broadcasts channels through the internet 24/7. The service is completely free
         <description>Download and install addons by Hadynz</description>
         <platform>all</platform>
     </extension>
+</addon>
+
+<addon id="repository.mash2k3" name="All Addons by Mash2k3" version="1.5" provider-name="Mash2k3">
+	<extension point="xbmc.addon.repository" name="Addons from Mash2k3">
+		<info compressed="false">http://bitbucket.org/mash2k3/mash2k3-repository/raw/master/addons.xml</info>
+		<checksum>http://bitbucket.org/mash2k3/mash2k3-repository/raw/master/addons.xml.md5</checksum>
+		<datadir zip="true">http://bitbucket.org/mash2k3/mash2k3-repository/raw/master/zips</datadir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary>Repo for Mash Up</summary>
+		<description>Download and install addons from Mash2k3.......For OFFICIAL !! Support Visit XBMCHUB.COM</description>
+		<platform>all</platform>
+	</extension>
 </addon>
 
 <addon id="repository.pampereo.xbmc-addons" name="Pampereo XBMC Add-on Repository" version="1.0.0" provider-name="pampereo">
