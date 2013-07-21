@@ -1,4 +1,28 @@
-#EXTM3U 
+ #EXTM3U 
+ ##EXTINF:-1,Tunisian Channels (don't click here)
+ #EXTINF:-1,Nessma Hamra 
+ http://62.63.207.54:8082/udp/239.193.1.165:3301 
+ #EXTINF:-1,Hannibaal 
+ http://62.63.207.54:8082/udp/239.193.0.101:3301 
+ #EXTINF:-1,Tunisna 
+ http://62.63.207.54:8082/udp/239.193.2.1:3301 
+ #EXTINF:-1,Tunisia 2 
+ http://62.63.207.54:8082/udp/239.193.0.52:3301
+ #EXTINF:-1,Attounisiya Alekhbareya 
+ http://62.63.207.54:8082/udp/239.193.2.125:3301
+ #EXTINF:-1,Azzaytouna 
+ http://62.63.207.54:8082/udp/239.193.2.18:3301
+ #EXTINF:-1,Attounisiya
+ http://62.63.207.54:8082/udp/239.193.1.148:3301 
+ #EXTINF:-1,Attounisiya 1
+ http://62.63.207.54:8082/udp/239.193.1.218:3301 
+ #EXTINF:-1,Azaytouna Hidaya 
+ http://62.63.207.54:8082/udp/239.193.1.6:3301 
+ #EXTINF:-1,Al Mustaqilla 
+ http://62.63.207.54:8082/udp/239.193.1.14:3301 
+ #EXTINF:-1,Al Janoubya TV 
+ http://62.63.207.54:8082/udp/239.193.0.100:3301
+ #EXTINF:-1,----------------------- (don't click here)
  #EXTINF:-1,JSC Sports +1 
  http://62.63.207.54:8082/udp/239.200.0.9:3302 
  #EXTINF:-1,JSC Sports +4 
@@ -366,8 +390,6 @@
  http://62.63.207.54:8082/udp/239.193.2.3:3301 
  #EXTINF:-1,JNC 
  http://62.63.207.54:8082/udp/239.193.2.2:3301 
- #EXTINF:-1,Tunisna 
- http://62.63.207.54:8082/udp/239.193.2.1:3301 
  #EXTINF:-1,Test 
  http://62.63.207.54:8082/udp/239.193.2.255:3301 
  #EXTINF:-1,Mazaj TV 
@@ -396,8 +418,6 @@
  http://62.63.207.54:8082/udp/239.193.2.20:3301 
  #EXTINF:-1,4Shabab 
  http://62.63.207.54:8082/udp/239.193.2.19:3301 
- #EXTINF:-1,Azzaytouna 
- http://62.63.207.54:8082/udp/239.193.2.18:3301 
  #EXTINF:-1,Taha 
  http://62.63.207.54:8082/udp/239.193.2.17:3301 
  #EXTINF:-1,Canary 
@@ -439,9 +459,7 @@
  #EXTINF:-1,Soon TV 
  http://62.63.207.54:8082/udp/239.193.2.118:3301 
  #EXTINF:-1,OYA 
- http://62.63.207.54:8082/udp/239.193.2.126:3301 
- #EXTINF:-1,Attounisiya Alekhbareya 
- http://62.63.207.54:8082/udp/239.193.2.125:3301 
+ http://62.63.207.54:8082/udp/239.193.2.126:3301  
  #EXTINF:-1,Al Nour TV 
  http://62.63.207.54:8082/udp/239.193.2.124:3301 
  #EXTINF:-1,Al Aqila 
@@ -550,8 +568,6 @@
  http://62.63.207.54:8082/udp/239.193.1.167:3301 
  #EXTINF:-1,Assaida 
  http://62.63.207.54:8082/udp/239.193.1.176:3301 
- #EXTINF:-1,Nessma Hamra 
- http://62.63.207.54:8082/udp/239.193.1.165:3301 
  #EXTINF:-1,TV A3 
  http://62.63.207.54:8082/udp/239.193.1.164:3301 
  #EXTINF:-1,Feed 
@@ -648,8 +664,6 @@
  http://62.63.207.54:8082/udp/239.193.1.144:3301 
  #EXTINF:-1,Aden Live 
  http://62.63.207.54:8082/udp/239.193.1.149:3301 
- #EXTINF:-1,Attounisiya 1 
- http://62.63.207.54:8082/udp/239.193.1.148:3301 
  #EXTINF:-1,Feed 
  http://62.63.207.54:8082/udp/239.193.1.147:3301 
  #EXTINF:-1,Test 
@@ -772,8 +786,6 @@
  http://62.63.207.54:8082/udp/239.193.1.216:3301 
  #EXTINF:-1,Ashorok TV 
  http://62.63.207.54:8082/udp/239.193.1.217:3301 
- #EXTINF:-1,Attounisiya 1 
- http://62.63.207.54:8082/udp/239.193.1.218:3301 
  #EXTINF:-1,Addiyar 
  http://62.63.207.54:8082/udp/239.193.1.219:3301 
  #EXTINF:-1,Ro'ya 
@@ -848,10 +860,6 @@
  http://62.63.207.54:8082/udp/239.193.1.30:3301 
  #EXTINF:-1,Sela 
  http://62.63.207.54:8082/udp/239.193.1.56:3301
- #EXTINF:-1,Azaytouna Hidaya 
- http://62.63.207.54:8082/udp/239.193.1.6:3301 
- #EXTINF:-1,Al Mustaqilla 
- http://62.63.207.54:8082/udp/239.193.1.14:3301 
  #EXTINF:-1,Al Nahar TV 
  http://62.63.207.54:8082/udp/239.193.1.13:3301 
  #EXTINF:-1,Aletehad 
@@ -1141,9 +1149,7 @@
  #EXTINF:-1,Cairo Cinema 
  http://62.63.207.54:8082/udp/239.193.0.50:3301 
  #EXTINF:-1,EDU Iraq 
- http://62.63.207.54:8082/udp/239.193.0.51:3301 
- #EXTINF:-1,Tunisia 2 
- http://62.63.207.54:8082/udp/239.193.0.52:3301 
+ http://62.63.207.54:8082/udp/239.193.0.51:3301  
  #EXTINF:-1,Test 
  http://62.63.207.54:8082/udp/239.193.0.53:3301 
  #EXTINF:-1,Test 
@@ -1237,11 +1243,7 @@
  #EXTINF:-1,Test 
  http://62.63.207.54:8082/udp/239.193.0.98:3301 
  #EXTINF:-1,Test 
- http://62.63.207.54:8082/udp/239.193.0.99:3301 
- #EXTINF:-1,Al Janoubya TV 
- http://62.63.207.54:8082/udp/239.193.0.100:3301 
- #EXTINF:-1,Hannibaal 
- http://62.63.207.54:8082/udp/239.193.0.101:3301 
+ http://62.63.207.54:8082/udp/239.193.0.99:3301  
  #EXTINF:-1,ON TV 
  http://62.63.207.54:8082/udp/239.193.0.102:3301 
  #EXTINF:-1,Al Hadath 
