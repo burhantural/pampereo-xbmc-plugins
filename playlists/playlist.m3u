@@ -43,7 +43,6 @@
  http://62.63.207.54:8082/udp/239.200.0.18:3302 
  #EXTINF:-1,JSC Sports +8 
  http://62.63.207.54:8082/udp/239.200.0.16:3302 
- # Separate
  #EXTINF:-1,Athouratheyah 
  http://62.63.207.54:8082/udp/239.193.2.172:3301 
  #EXTINF:-1,Libya Macmadas 
@@ -1550,7 +1549,6 @@
  http://62.63.207.54:8082/udp/239.193.0.254:3301 
  #EXTINF:-1,LDC 
  http://62.63.207.54:8082/udp/239.193.0.255:3301 
- #### Sport Channels
  #EXTINF:-1,DUBAI SPORTS 1 
  http://62.63.207.54:8082/udp/239.193.1.29:3301 
  #EXTINF:-1,MODERN ( SPORTS TV)
@@ -1565,7 +1563,6 @@
  http://62.63.207.54:8082/udp/239.193.2.191:3301 
  #EXTINF:-1,AL NAHAR SPORT
  http://62.63.207.54:8082/udp/239.193.2.214:3301  
- #### Turc Channels
  #EXTINF:-1,TRT 1
  http://62.63.207.54:8082/udp/239.200.0.55:3301
  #EXTINF:-1,TRT TÜRK
