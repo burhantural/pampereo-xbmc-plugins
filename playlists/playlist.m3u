@@ -1,11 +1,12 @@
  #EXTM3U 
- ##EXTINF:-1,Tunisian Channels (don't click here)
  #EXTINF:-1,Nessma Hamra 
  http://62.63.207.54:8082/udp/239.193.1.165:3301 
  #EXTINF:-1,Hannibaal 
  http://62.63.207.54:8082/udp/239.193.0.101:3301 
  #EXTINF:-1,Tunisna 
  http://62.63.207.54:8082/udp/239.193.2.1:3301 
+ #EXTINF:-1,Tunisna 
+ http://62.63.207.54:8082/udp/239.193.1.11:3301
  #EXTINF:-1,Tunisia 2 
  http://62.63.207.54:8082/udp/239.193.0.52:3301
  #EXTINF:-1,Attounisiya Alekhbareya 
@@ -22,7 +23,6 @@
  http://62.63.207.54:8082/udp/239.193.1.14:3301 
  #EXTINF:-1,Al Janoubya TV 
  http://62.63.207.54:8082/udp/239.193.0.100:3301
- #EXTINF:-1,----------------------- (don't click here)
  #EXTINF:-1,JSC Sports +1 
  http://62.63.207.54:8082/udp/239.200.0.9:3302 
  #EXTINF:-1,JSC Sports +4 
@@ -863,9 +863,7 @@
  #EXTINF:-1,Al Nahar TV 
  http://62.63.207.54:8082/udp/239.193.1.13:3301 
  #EXTINF:-1,Aletehad 
- http://62.63.207.54:8082/udp/239.193.1.12:3301 
- #EXTINF:-1,Tunisna 
- http://62.63.207.54:8082/udp/239.193.1.11:3301 
+ http://62.63.207.54:8082/udp/239.193.1.12:3301  
  #EXTINF:-1,JSC 
  http://62.63.207.54:8082/udp/239.193.1.10:3301 
  #EXTINF:-1,WNN 
