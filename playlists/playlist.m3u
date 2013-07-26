@@ -1,18 +1,41 @@
  #EXTM3U
- ### Last Update date 24/07/2013
+ ### Last Update date 26/07/2013
  ### Following Channels are via Teledunet.com
  #EXTINF:-1,Nessma Hamra
- rtmp://206.190.133.60:1935/teledunet/ playpath=nessma swfUrl=http://www.teledunet.com/tv/player.swf?duration_=3600&abouttxt=Teledunet&shuffle=true&rotatetime=1&repeat=true&autobuffer_=true&showstop=false&autoscroll=true&enablejs=true&repeat=list&bufferlength_=5&screencolor_=F0F0F0&controlbar_=over&autostart=true&stretching_=none&id0=81789930548000&streamer=rtmp://206.190.133.60:1935/teledunet&file=nessma&provider=rtmp&skin=bekle/bekle.xml pageUrl=http://www.teledunet.com/tv/?channel=nessma&no_pub live=1
+ rtmp://206.190.133.60:1935/teledunet/ playpath=nessma swfUrl=http://www.teledunet.com/tv/player.swf?duration_=3600&abouttxt=Teledunet&shuffle=true&rotatetime=1&repeat=true&autobuffer_=true&showstop=false&autoscroll=true&enablejs=true&repeat=list&bufferlength_=5&screencolor_=F0F0F0&controlbar_=over&autostart=true&stretching_=none&id0=81789930548000&streamer=rtmp://206.190.133.60:1935/teledunet&file=nessma&provider=rtmp&skin=bekle/bekle.xml pageUrl=http://www.teledunet.com/tv/?channel=nessma&no_pub live=1 timeout=15
  #EXTINF:-1,Al Tounisia
- rtmp://176.31.230.164:1935/teledunet/ playpath=al_tunisia_t2 swfUrl=http://www.teledunet.com/tv/player.swf?duration_=3600&abouttxt=Teledunet&shuffle=true&rotatetime=1&repeat=true&autobuffer_=true&showstop=false&autoscroll=true&enablejs=true&repeat=list&bufferlength_=5&screencolor_=F0F0F0&controlbar_=over&autostart=true&stretching_=none&id0=81789962970100&streamer=rtmp://176.31.230.164:1935/teledunet&file=al_tunisia_t2&provider=rtmp&skin=bekle/bekle.xml pageUrl=http://www.teledunet.com/tv/?channel=al_tunisia&no_pub live=1
+ rtmp://176.31.230.164:1935/teledunet/ playpath=al_tunisia_t2 swfUrl=http://www.teledunet.com/tv/player.swf?duration_=3600&abouttxt=Teledunet&shuffle=true&rotatetime=1&repeat=true&autobuffer_=true&showstop=false&autoscroll=true&enablejs=true&repeat=list&bufferlength_=5&screencolor_=F0F0F0&controlbar_=over&autostart=true&stretching_=none&id0=81789962970100&streamer=rtmp://176.31.230.164:1935/teledunet&file=al_tunisia_t2&provider=rtmp&skin=bekle/bekle.xml pageUrl=http://www.teledunet.com/tv/?channel=al_tunisia&no_pub live=1 timeout=15
  #EXTINF:=-1,Hannibal 
- rtmp://95.211.168.142:1935/teledunet/ playpath=hanibal swfUrl=http://www.teledunet.com/tv/player.swf?duration_=3600&abouttxt=Teledunet&shuffle=true&rotatetime=1&repeat=true&autobuffer_=true&showstop=false&autoscroll=true&enablejs=true&repeat=list&bufferlength_=5&screencolor_=F0F0F0&controlbar_=over&autostart=true&stretching_=none&id0=81790006159800&streamer=rtmp://95.211.168.142:1935/teledunet&file=hanibal&provider=rtmp&skin=bekle/bekle.xml pageUrl=http://www.teledunet.com/tv/?channel=hanibal&no_pub live=1 
- ### Until Here
+ rtmp://95.211.168.142:1935/teledunet/ playpath=hanibal swfUrl=http://www.teledunet.com/tv/player.swf?duration_=3600&abouttxt=Teledunet&shuffle=true&rotatetime=1&repeat=true&autobuffer_=true&showstop=false&autoscroll=true&enablejs=true&repeat=list&bufferlength_=5&screencolor_=F0F0F0&controlbar_=over&autostart=true&stretching_=none&id0=81790006159800&streamer=rtmp://95.211.168.142:1935/teledunet&file=hanibal&provider=rtmp&skin=bekle/bekle.xml pageUrl=http://www.teledunet.com/tv/?channel=hanibal&no_pub live=1 timeout=15
+ #EXTINF:-1,Al Hiwar Tounisi 
+ rtmp://95.211.168.142:1935/teledunet/ playpath=al_hiwar_tn swfUrl=http://www.teledunet.com/tv/player.swf?duration_=3600&abouttxt=Teledunet&shuffle=true&rotatetime=1&repeat=true&autobuffer_=true&showstop=false&autoscroll=true&enablejs=true&repeat=list&bufferlength_=5&screencolor_=F0F0F0&controlbar_=over&autostart=true&stretching_=none&id0=81790084389200&streamer=rtmp://95.211.168.142:1935/teledunet&file=al_hiwar_tn&provider=rtmp&skin=bekle/bekle.xml pageUrl=http://www.teledunet.com/tv/?channel=al_hiwar_tn&no_pub live=1 timeout=15
  #EXTINF:-1,Tunisie 1
- rtmp://ca-edge-3.cdn2.streamago.tv:1935/streamagoedge/1052 app=streamagoedge/1052?idutente=1052&idcanale=224&pwd= playpath=224 swfUrl=http://www.streamago.tv/app/StreamVideo.swf pageUrl=http://www.streamago.tv/iframe/1052/ live=1
+ rtmp://206.190.133.60:1935/teledunet/tunisia_national_1_t2 app=teledunet swfUrl=http://www.teledunet.com/tv/player.swf?bufferlength=5&repeat=single&autostart=true&id0=81790112587400&streamer=rtmp://206.190.133.60:1935/teledunet/tunisia_national_1_t2&file=tunisia_national_1_t2&provider=rtmp playpath=tunisia_national_1_t2 live=1 pageUrl=http://www.teledunet.com/tv/?channel=tunisia_national_1_t2&no_pub timeout=15
  #EXTINF:-1,Tunisie 2
+ rtmp://37.59.16.55:1935/teledunet/ playpath=tunisia_national_2_t4 swfUrl=http://www.teledunet.com/tv/player.swf?duration_=3600&abouttxt=Teledunet&shuffle=true&rotatetime=1&repeat=true&autobuffer_=true&showstop=false&autoscroll=true&enablejs=true&repeat=list&bufferlength_=5&screencolor_=F0F0F0&controlbar_=over&autostart=true&stretching_=none&id0=81790146913100&streamer=rtmp://37.59.16.55:1935/teledunet&file=tunisia_national_2_t4&provider=rtmp&skin=bekle/bekle.xml pageUrl=http://www.teledunet.com/tv/?channel=tunisia_national_2&no_pub live=1 timeout=15
+ ### Until Here
+ #EXTINF:-1,Al Janoubiya
+ rtmp://193.95.75.154/gwss/ playpath=aljanoubiyatv swfUrl=http://de.online-television.net/players/player53.swf pageUrl=http://de.online-television.net/684-al-janoubia-tv.html live=1 timeout=15
+ #EXTINF:-1,Tunisie 1 (Link 2)
+ rtmp://ca-edge-3.cdn2.streamago.tv:1935/streamagoedge/1052 app=streamagoedge/1052?idutente=1052&idcanale=224&pwd= playpath=224 swfUrl=http://www.streamago.tv/app/StreamVideo.swf pageUrl=http://www.streamago.tv/iframe/1052/ live=1 timeout=15
+ #EXTINF:-1,Tunisie 2 (Link 2)
  mms://vipmms.yacast.net/nationale2
  #EXTINF:-1,Nessma Hamra (Link 2)
  mms://193.95.93.146/nessma
  #EXTINF:-1,Hannibal (Link 2)
- rtmp://85.12.5.35/wl/channel/ playpath=webc1400 swfUrl=http://www.webcaston.com/player/player.swf pageUrl=http://www.webcaston.com/embed.php?fileid=webc1400&vw=468&vh=340&domain=www.tunisvista.com live=1
+ rtmp://85.12.5.35/wl/channel/ playpath=webc1400 swfUrl=http://www.webcaston.com/player/player.swf pageUrl=http://www.webcaston.com/embed.php?fileid=webc1400&vw=468&vh=340&domain=www.tunisvista.com live=1 timeout=15
+ ### MBC Channels
+ #EXTINF:-1, MBC 2
+ rtmp://37.59.16.55:1935/teledunet/ playpath=mbc_2_t2 swfUrl=http://www.teledunet.com/tv/player.swf?duration_=3600&abouttxt=Teledunet&shuffle=true&rotatetime=1&repeat=true&autobuffer_=true&showstop=false&autoscroll=true&enablejs=true&repeat=list&bufferlength_=5&screencolor_=F0F0F0&controlbar_=over&autostart=true&stretching_=none&id0=81790181774300&streamer=rtmp://37.59.16.55:1935/teledunet&file=mbc_2_t2&provider=rtmp&skin=bekle/bekle.xml pageUrl=http://www.teledunet.com/tv/?channel=mbc_2&no_pub live=1 timeout=15
+ #EXTINF:-1,Al Manar HD
+ rtmp://72.55.164.21/live playpath=livestream swfUrl=http://www.almanar.com.lb/style/player/4.2.90/mediaplayer.swf live=true timeout=15 pageUrl=http://www.almanar.com.lb/manarlive.php
+ #EXTINF:-1,Al Mayadeen
+ rtmp://livestreaming3.itworkscdn.net/mayadeenlive playpath=mayadeen_360p swfUrl=http://www.almayadeen.net/content/jwplayer/jwplayer.flash.swf live=true timeout=15 pageUrl>http://www.almayadeen.net/live
+ #EXTINF:-1,JSC+1
+ rtmp://141.8.244.56/base/ playpath=aj1.stream swfUrl=http://141.8.244.56/player/player-licensed55.swf pageUrl=http://sportsembed.com/embed.php?v=aj1&vw=600&vh=450&typeplayer=0&domain=pogotv.eu live=1 timeout=15
+ #EXTINF:-1,JSC+2
+ rtmp://94.102.51.78/live33/ playpath=aj2 swfUrl=http://www.zstream.eu/p387sj9hd803ns9n3is93s9df8nd93d9g9dfg94ng949f.swf pageUrl=http://www.zstream.eu/embed.php?v=aj2&vw=600&vh=450&video=0&domain=pogotv.eu live=1 timeout=15
+ #EXTINF:-1,JSC+3
+ rtmp://141.8.244.56/base/ playpath=aj3.stream swfUrl=http://141.8.244.56/player/player-licensed55.swf pageUrl=http://sportsembed.com/embed.php?v=aj3&vw=600&vh=450&typeplayer=0&domain=pogotv.eu live=1 timeout=15
+
+ 
