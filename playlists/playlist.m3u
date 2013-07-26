@@ -5,7 +5,7 @@
  rtmp://206.190.133.60:1935/teledunet/ playpath=nessma swfUrl=http://www.teledunet.com/tv/player.swf?duration_=3600&abouttxt=Teledunet&shuffle=true&rotatetime=1&repeat=true&autobuffer_=true&showstop=false&autoscroll=true&enablejs=true&repeat=list&bufferlength_=5&screencolor_=F0F0F0&controlbar_=over&autostart=true&stretching_=none&id0=81789930548000&streamer=rtmp://206.190.133.60:1935/teledunet&file=nessma&provider=rtmp&skin=bekle/bekle.xml pageUrl=http://www.teledunet.com/tv/?channel=nessma&no_pub live=1 timeout=15
  #EXTINF:-1,Al Tounisia
  rtmp://176.31.230.164:1935/teledunet/ playpath=al_tunisia_t2 swfUrl=http://www.teledunet.com/tv/player.swf?duration_=3600&abouttxt=Teledunet&shuffle=true&rotatetime=1&repeat=true&autobuffer_=true&showstop=false&autoscroll=true&enablejs=true&repeat=list&bufferlength_=5&screencolor_=F0F0F0&controlbar_=over&autostart=true&stretching_=none&id0=81789962970100&streamer=rtmp://176.31.230.164:1935/teledunet&file=al_tunisia_t2&provider=rtmp&skin=bekle/bekle.xml pageUrl=http://www.teledunet.com/tv/?channel=al_tunisia&no_pub live=1 timeout=15
- #EXTINF:=-1,Hannibal 
+ #EXTINF:-1,Hannibal 
  rtmp://95.211.168.142:1935/teledunet/ playpath=hanibal swfUrl=http://www.teledunet.com/tv/player.swf?duration_=3600&abouttxt=Teledunet&shuffle=true&rotatetime=1&repeat=true&autobuffer_=true&showstop=false&autoscroll=true&enablejs=true&repeat=list&bufferlength_=5&screencolor_=F0F0F0&controlbar_=over&autostart=true&stretching_=none&id0=81790006159800&streamer=rtmp://95.211.168.142:1935/teledunet&file=hanibal&provider=rtmp&skin=bekle/bekle.xml pageUrl=http://www.teledunet.com/tv/?channel=hanibal&no_pub live=1 timeout=15
  #EXTINF:-1,Al Hiwar Tounisi 
  rtmp://95.211.168.142:1935/teledunet/ playpath=al_hiwar_tn swfUrl=http://www.teledunet.com/tv/player.swf?duration_=3600&abouttxt=Teledunet&shuffle=true&rotatetime=1&repeat=true&autobuffer_=true&showstop=false&autoscroll=true&enablejs=true&repeat=list&bufferlength_=5&screencolor_=F0F0F0&controlbar_=over&autostart=true&stretching_=none&id0=81790084389200&streamer=rtmp://95.211.168.142:1935/teledunet&file=al_hiwar_tn&provider=rtmp&skin=bekle/bekle.xml pageUrl=http://www.teledunet.com/tv/?channel=al_hiwar_tn&no_pub live=1 timeout=15
@@ -37,5 +37,7 @@
  rtmp://94.102.51.78/live33/ playpath=aj2 swfUrl=http://www.zstream.eu/p387sj9hd803ns9n3is93s9df8nd93d9g9dfg94ng949f.swf pageUrl=http://www.zstream.eu/embed.php?v=aj2&vw=600&vh=450&video=0&domain=pogotv.eu live=1 timeout=15
  #EXTINF:-1,JSC+3
  rtmp://141.8.244.56/base/ playpath=aj3.stream swfUrl=http://141.8.244.56/player/player-licensed55.swf pageUrl=http://sportsembed.com/embed.php?v=aj3&vw=600&vh=450&typeplayer=0&domain=pogotv.eu live=1 timeout=15
-
- 
+ #EXTINF:-1,JSC+4
+ rtmp://141.8.244.56/live/ playpath=jsc_44 swfUrl=http://141.8.244.56/player/player-licensed55.swf pageUrl=http://sportsembed.com/embed.php?v=jsc_44&vw=600&vh=450&typeplayer=0&domain=pogotv.eu live=1 timeout=15
+ #EXTINF:-1,National Geo AD
+ rtmp://95.211.168.142:1935/teledunet/ playpath=national_geo_ad_t2 swfUrl=http://www.teledunet.com/tv/player.swf?duration_=3600&abouttxt=T%EF%BF%BDl%EF%BF%BDdunet&shuffle=true&rotatetime=1&repeat=true&autobuffer_=true&showstop=false&autoscroll=true&enablejs=true&repeat=list&bufferlength_=5&screencolor_=F0F0F0&controlbar_=over&autostart=true&stretching_=none&id0=81790336686200&streamer=rtmp://95.211.168.142:1935/teledunet&file=national_geo_ad_t2&provider=rtmp&skin=bekle/bekle.xml pageUrl=http://www.teledunet.com/tv/?channel=national_geo_ad&no_pub live=1 timeout=15
