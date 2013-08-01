@@ -7,8 +7,8 @@
  rtmp://hd1.lsops.net/live/ playpath=aljamuba_ar_183 swfUrl=http://static.ls-cdn.com/player/5.10/livestation-player.swf?1375288928 pageUrl=http://www.livestation.com/ar/aljazeera-mubasher live=1 timeout=15
  #EXTINF:-1,Al Jazeera Masr
  rtmp://hd1.lsops.net/live/ playpath=aljamisr_ar_485 swfUrl=http://static.ls-cdn.com/player/5.10/livestation-player.swf?1375208886 pageUrl=http://www.livestation.com/ar/aljazeera-mubasher-misr live=1 timeout=15
- #EXTINF:-1,France 24
- rtmp://hd7.lsops.net/live/ playpath=france24_en_364 swfUrl=http://static.ls-cdn.com/player/5.10/livestation-player.swf?1375287126 pageUrl=http://www.livestation.com/ar/france24/en live=1 timeout=15
+ #EXTINF:-1,France 24 Arabic
+ rtmp://hd7.lsops.net/live/ playpath=france24_ar_364 swfUrl=http://static.ls-cdn.com/player/5.10/livestation-player.swf?1375287126 pageUrl=http://www.livestation.com/ar/france24/en live=1 timeout=15
  #EXTINF:-1,Al Mayadeen
  rtmp://hd2.lsops.net/live/ playpath=almayade_ar_485 swfUrl=http://static.ls-cdn.com/player/5.10/livestation-player.swf?1375287332 pageUrl=http://www.livestation.com/ar/almayadeen live=1 timeout=15
  #EXTINF:-1,CNBC Arabic
@@ -19,8 +19,8 @@
  rtmp://hd4.lsops.net/live/ playpath=bbcarab1_ar_320 swfUrl=http://static.ls-cdn.com/player/5.10/livestation-player.swf?1375287332 pageUrl=http://www.livestation.com/ar/lualuatv live=1 timeout=
  #EXTINF:-1,Lybia TV
  rtmp://hd2.lsops.net/live/ playpath=libyatv_ar_372 swfUrl=http://static.ls-cdn.com/player/5.10/livestation-player.swf?1375225825 pageUrl=http://www.livestation.com/ar/libyatv live=1 timeout=15
- #EXTINF:-1,SAMAA TV
- rtmp://hd3.lsops.net/live/ playpath=samaatv_ur_364 swfUrl=http://static.ls-cdn.com/player/5.10/livestation-player.swf?1375288928 pageUrl=http://www.livestation.com/ar/samaatv live=1 timeout=15
+ #EXTINF:-1,Euronews Arabic
+ rtmp://hd1.lsops.net/live/ playpath=euronews_ar_340 swfUrl=http://static.ls-cdn.com/player/5.10/livestation-player.swf?1375354516 pageUrl=http://www.livestation.com/ar/euronews/ar live=1 timeout=15
  #EXTINF:-1,Russia Today Arabic
  rtmp://rt.fms.visionip.tv/live/ playpath=RT_Arabic_3 swfUrl=http://static.ls-cdn.com/player/5.10/livestation-player.swf?1375288928 pageUrl=http://www.livestation.com/ar/rt/ar live=1 timeout=15
  #EXTINF:-1,Nessma
@@ -31,3 +31,6 @@
  rtmp://85.12.5.7/wl/channel/ playpath=webc1402 swfUrl=http://www.webcaston.com/player/player.swf pageUrl=http://www.webcaston.com/embed.php?fileid=webc1402&vw=510&vh=380&domain=www.tunisvista.com live=1 timeout=15
  #EXTINF:-1,Tunisie nationale 1
  rtmp://85.12.5.34/wl/channel/ playpath=webc1050 swfUrl=http://www.webcaston.com/player/player.swf pageUrl=http://www.webcaston.com/embed.php?fileid=webc1402&vw=510&vh=380&domain=www.tunisvista.com live=1 timeout=15
+ ### Radio Channels
+ #EXTINF:-1,-RADIO- Mosaique FM
+ http://radio.mosaiquefm.net:8000/mosalive
