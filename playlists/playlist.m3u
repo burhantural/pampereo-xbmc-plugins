@@ -28,7 +28,7 @@
  #EXTINF:-1,Nessma Hamra 
  rtmp://206.190.133.60:1935/teledunet/ playpath=nessma swfUrl=http://www.teledunet.com/tv/player.swf?duration_=3600&abouttxt=Teledunet&shuffle=true&rotatetime=1&repeat=true&autobuffer_=true&showstop=false&autoscroll=true&enablejs=true&repeat=list&bufferlength_=5&screencolor_=F0F0F0&controlbar_=over&autostart=true&stretching_=none&id0=81837055849000&streamer=rtmp://206.190.133.60%3A1935/teledunet&file=nessma&provider=rtmp&skin=bekle/bekle.xml pageUrl=http://www.teledunet.com/tv/?channel=nessma&no_pub live=1 swfVfy=1
  #EXTINF:-1,Hannibal
- rtmp://85.17.73.7/live playpath=MPL2s?id=16961 swfUrl=http://mips.tv/content/scripts/eplayer.swf pageUrl=http://mips.tv/embedplayer/MPL2s/1/1000/800 live=1 conn=S:OK swfVfy=1
+ rtmp://85.17.73.7/live playpath=MPL2s?id=16961 swfUrl=http://mips.tv/content/scripts/eplayer.swf pageUrl=http://mips.tv/embedplayer/MPL2s/1/500/400 live=1 conn=S:OK swfVfy=1
  #EXTINF:-1,Ramadan TV
  rtmp://85.12.5.5/wl/channel/ playpath=webc1400 swfUrl=http://www.webcaston.com/player/player.swf pageUrl=http://www.webcaston.com/embed.php?fileid=webc1400&vw=468&vh=340&domain=www.tunisvista.com live=1 swfVfy=1
  #EXTINF:-1,Ettounisiya TV
