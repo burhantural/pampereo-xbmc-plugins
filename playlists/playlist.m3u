@@ -1,84 +1,95 @@
  #EXTM3U
  ### Last Update date 03/08/2013
- ### Scraped Sites arabichannels.com , livestation.com ,tunisvista.com
+ ### Scraped Sites arabichannels.com , livestation.com ,tunisvista.com , filmon
  #EXTINF:-1,Al Jazeera
- rtmp://hd3.lsops.net/live/ playpath=aljazeer_ar_838 swfUrl=http://static.ls-cdn.com/player/5.10/livestation-player.swf?1375206135 pageUrl=http://www.livestation.com/en/aljazeera-arabic live=1 timeout=15
+ rtmp://hd3.lsops.net/live/ playpath=aljazeer_ar_838 swfUrl=http://static.ls-cdn.com/player/5.10/livestation-player.swf?1375206135 pageUrl=http://www.livestation.com/en/aljazeera-arabic live=1 swfVfy=1
  #EXTINF:-1,Al Jazeera Mubasher
- rtmp://hd1.lsops.net/live/ playpath=aljamuba_ar_183 swfUrl=http://static.ls-cdn.com/player/5.10/livestation-player.swf?1375288928 pageUrl=http://www.livestation.com/ar/aljazeera-mubasher live=1 timeout=15
+ rtmp://hd1.lsops.net/live/ playpath=aljamuba_ar_183 swfUrl=http://static.ls-cdn.com/player/5.10/livestation-player.swf?1375288928 pageUrl=http://www.livestation.com/ar/aljazeera-mubasher live=1 swfVfy=1
  #EXTINF:-1,Al Jazeera Masr
- rtmp://hd1.lsops.net/live/ playpath=aljamisr_ar_485 swfUrl=http://static.ls-cdn.com/player/5.10/livestation-player.swf?1375208886 pageUrl=http://www.livestation.com/ar/aljazeera-mubasher-misr live=1 timeout=15
+ rtmp://hd1.lsops.net/live/ playpath=aljamisr_ar_485 swfUrl=http://static.ls-cdn.com/player/5.10/livestation-player.swf?1375208886 pageUrl=http://www.livestation.com/ar/aljazeera-mubasher-misr live=1 swfVfy=1
  #EXTINF:-1,France 24 Arabic
- rtmp://hd7.lsops.net/live/ playpath=france24_ar_364 swfUrl=http://static.ls-cdn.com/player/5.10/livestation-player.swf?1375287126 pageUrl=http://www.livestation.com/ar/france24/en live=1 timeout=15
+ rtmp://hd7.lsops.net/live/ playpath=france24_ar_364 swfUrl=http://static.ls-cdn.com/player/5.10/livestation-player.swf?1375287126 pageUrl=http://www.livestation.com/ar/france24/en live=1 swfVfy=1
  #EXTINF:-1,Al Mayadeen
- rtmp://hd2.lsops.net/live/ playpath=almayade_ar_485 swfUrl=http://static.ls-cdn.com/player/5.10/livestation-player.swf?1375287332 pageUrl=http://www.livestation.com/ar/almayadeen live=1 timeout=15
+ rtmp://hd2.lsops.net/live/ playpath=almayade_ar_485 swfUrl=http://static.ls-cdn.com/player/5.10/livestation-player.swf?1375287332 pageUrl=http://www.livestation.com/ar/almayadeen live=1 swfVfy=1
  #EXTINF:-1,CNBC Arabic
- rtmp://hd4.lsops.net/live/ playpath=cnbc_ar_372 swfUrl=http://static.ls-cdn.com/player/5.10/livestation-player.swf?1375286170 pageUrl=http://www.livestation.com/ar/cnbc-arabia live=1 timeout=15
+ rtmp://hd4.lsops.net/live/ playpath=cnbc_ar_372 swfUrl=http://static.ls-cdn.com/player/5.10/livestation-player.swf?1375286170 pageUrl=http://www.livestation.com/ar/cnbc-arabia live=1 swfVfy=1
  #EXTINF:-1,BBC Arabic
- rtmp://hd7.lsops.net/live/ playpath=bbcarab_ar_364 swfUrl=http://static.ls-cdn.com/player/5.10/livestation-player.swf?1375287540 pageUrl=http://www.livestation.com/ar/bbc-arabic live=1 timeout=15
+ rtmp://hd7.lsops.net/live/ playpath=bbcarab_ar_364 swfUrl=http://static.ls-cdn.com/player/5.10/livestation-player.swf?1375287540 pageUrl=http://www.livestation.com/ar/bbc-arabic live=1 swfVfy=1
  #EXTINF:-1,LouLoua Khalig
- rtmp://hd4.lsops.net/live/ playpath=bbcarab1_ar_320 swfUrl=http://static.ls-cdn.com/player/5.10/livestation-player.swf?1375287332 pageUrl=http://www.livestation.com/ar/lualuatv live=1 timeout=
+ rtmp://hd4.lsops.net/live/ playpath=bbcarab1_ar_320 swfUrl=http://static.ls-cdn.com/player/5.10/livestation-player.swf?1375287332 pageUrl=http://www.livestation.com/ar/lualuatv live=1 swfVfy=1
  #EXTINF:-1,Lybia TV
- rtmp://hd2.lsops.net/live/ playpath=libyatv_ar_372 swfUrl=http://static.ls-cdn.com/player/5.10/livestation-player.swf?1375225825 pageUrl=http://www.livestation.com/ar/libyatv live=1 timeout=15
+ rtmp://hd2.lsops.net/live/ playpath=libyatv_ar_372 swfUrl=http://static.ls-cdn.com/player/5.10/livestation-player.swf?1375225825 pageUrl=http://www.livestation.com/ar/libyatv live=1 swfVfy=1
  #EXTINF:-1,Euronews Arabic
- rtmp://hd1.lsops.net/live/ playpath=euronews_ar_340 swfUrl=http://static.ls-cdn.com/player/5.10/livestation-player.swf?1375354516 pageUrl=http://www.livestation.com/ar/euronews/ar live=1 timeout=15
+ rtmp://hd1.lsops.net/live/ playpath=euronews_ar_340 swfUrl=http://static.ls-cdn.com/player/5.10/livestation-player.swf?1375354516 pageUrl=http://www.livestation.com/ar/euronews/ar live=1 swfVfy=1
  #EXTINF:-1,Russia Today Arabic
- rtmp://rt.fms.visionip.tv/live/ playpath=RT_Arabic_3 swfUrl=http://static.ls-cdn.com/player/5.10/livestation-player.swf?1375288928 pageUrl=http://www.livestation.com/ar/rt/ar live=1 timeout=15
+ rtmp://rt.fms.visionip.tv/live/ playpath=RT_Arabic_3 swfUrl=http://static.ls-cdn.com/player/5.10/livestation-player.swf?1375288928 pageUrl=http://www.livestation.com/ar/rt/ar live=1 swfVfy=1
  #EXTINF:-1,Al Motawasset TV
- rtmp://85.12.5.5/wl/channel/ playpath=webc1401 swfUrl=http://www.webcaston.com/player/player.swf pageUrl=http://www.webcaston.com/embed.php?fileid=webc1401&vw=468&vh=340&domain=www.tunisvista.com live=1 timeout=15
+ rtmp://85.12.5.5/wl/channel/ playpath=webc1401 swfUrl=http://www.webcaston.com/player/player.swf pageUrl=http://www.webcaston.com/embed.php?fileid=webc1401&vw=468&vh=340&domain=www.tunisvista.com live=1 swfVfy=1
  #EXTINF:-1,Nessma Hamra 
-rtmp://206.190.133.60:1935/teledunet/ playpath=nessma swfUrl=http://www.teledunet.com/tv/player.swf?duration_=3600&abouttxt=Teledunet&shuffle=true&rotatetime=1&repeat=true&autobuffer_=true&showstop=false&autoscroll=true&enablejs=true&repeat=list&bufferlength_=5&screencolor_=F0F0F0&controlbar_=over&autostart=true&stretching_=none&id0=81837055849000&streamer=rtmp://206.190.133.60%3A1935/teledunet&file=nessma&provider=rtmp&skin=bekle/bekle.xml pageUrl=http://www.teledunet.com/tv/?channel=nessma&no_pub live=1 timeout=15
+ rtmp://206.190.133.60:1935/teledunet/ playpath=nessma swfUrl=http://www.teledunet.com/tv/player.swf?duration_=3600&abouttxt=Teledunet&shuffle=true&rotatetime=1&repeat=true&autobuffer_=true&showstop=false&autoscroll=true&enablejs=true&repeat=list&bufferlength_=5&screencolor_=F0F0F0&controlbar_=over&autostart=true&stretching_=none&id0=81837055849000&streamer=rtmp://206.190.133.60%3A1935/teledunet&file=nessma&provider=rtmp&skin=bekle/bekle.xml pageUrl=http://www.teledunet.com/tv/?channel=nessma&no_pub live=1 swfVfy=1
  #EXTINF:-1,Hannibal
- rtmp://85.12.5.5/wl/channel/ playpath=webc1050 swfUrl=http://www.webcaston.com/player/player.swf pageUrl=http://www.webcaston.com/embed.php?fileid=webc1400&vw=468&vh=340&domain=www.tunisvista.com live=1 timeout=15
+ rtmp://85.17.73.7/live playpath=MPL2s?id=16961 swfUrl=http://mips.tv/content/scripts/eplayer.swf pageUrl=http://mips.tv/embedplayer/MPL2s/1/1000/800 live=1 conn=S:OK swfVfy=1
  #EXTINF:-1,Ramadan TV
- rtmp://85.12.5.5/wl/channel/ playpath=webc1400 swfUrl=http://www.webcaston.com/player/player.swf pageUrl=http://www.webcaston.com/embed.php?fileid=webc1400&vw=468&vh=340&domain=www.tunisvista.com live=1 timeout=15
+ rtmp://85.12.5.5/wl/channel/ playpath=webc1400 swfUrl=http://www.webcaston.com/player/player.swf pageUrl=http://www.webcaston.com/embed.php?fileid=webc1400&vw=468&vh=340&domain=www.tunisvista.com live=1 swfVfy=1
  #EXTINF:-1,Ettounisiya TV
- rtmp://85.12.5.7/wl/channel/ playpath=webc1402 swfUrl=http://www.webcaston.com/player/player.swf pageUrl=http://www.webcaston.com/embed.php?fileid=webc1402&vw=510&vh=380&domain=www.tunisvista.com live=1 timeout=15
+ rtmp://85.12.5.7/wl/channel/ playpath=webc1402 swfUrl=http://www.webcaston.com/player/player.swf pageUrl=http://www.webcaston.com/embed.php?fileid=webc1402&vw=510&vh=380&domain=www.tunisvista.com live=1 swfVfy=1
  #EXTINF:-1,Tunisie nationale 1
- rtmp://94.32.97.11/satchannel1/ playpath=tvtunisi.stream swfUrl=http://webtv-b2b.tiscali.com/player/tisplayer/tis-player.swf pageUrl=http://www.tunisvista.com/medias/tv-tunisienne-live-online.html live=1 timeout=15
+ rtmp://94.32.97.11/satchannel1/ playpath=tvtunisi.stream swfUrl=http://webtv-b2b.tiscali.com/player/tisplayer/tis-player.swf pageUrl=http://www.tunisvista.com/medias/tv-tunisienne-live-online.html live=1 swfVfy=1
  #EXTINF:-1,Tunisie nationale 2
  http://vipmms.yacast.net/nationale2
  #EXTINF:-1,MBC
- rtmp://192.16.65.92/app/ playpath=jtv_7zXnWpn0HMsVKeil swfUrl=http://www-cdn.jtvnw.net/widgets/live_site_player.re6417144980f8bb05612f44180c19c5c7868e25d.swf pageUrl=http://ar.justin.tv/dived_14/popout live=1 timeout=15
+ rtmp://live308.edge.filmon.com/live/?id=0ad5aac39bb13fbe3ed36a1909e4ba9e751b634703d96ff3de9a742efdd90a29386290c34bb5bc5a88bbfc58871b7f0ef9eab3d0f824a1d1faca9b02543a6202dbaa0958874de3b3259c25272fa590eb16afd644409f653cb364f68072be9d2bb4af5276ce9e3aac18c5242cea409ef6cd506a0f15ca923ca2c7eb933d2928a5b7068459ef804bd91b62431d22651eec25db292b81eb7180/ playpath=367.high.stream swfUrl=http://www.filmon.com/tv/modules/FilmOnTV/files/flashapp/filmon/FilmonPlayerMetro.swf?v=22 pageUrl=http://www.filmon.com/
  #EXTINF:-1,National Geo AD
- rtmp://mi6.gv.filmon.com/live/_definst_/ playpath=1763.high.stream swfUrl=http://arabichannels.com/player3/jw/jwplayer/jwplayer.flash.swf pageUrl=http://arabichannels.com/national.html live=1 timeout=15
+ rtmp://mi6.gv.filmon.com/live/_definst_/ playpath=1763.high.stream swfUrl=http://arabichannels.com/player3/jw/jwplayer/jwplayer.flash.swf pageUrl=http://arabichannels.com/national.html live=1 swfVfy=1
  #EXTINF:-1,Al Jazeera Doc
- rtmp://aljazeeraflashlivefs.fplive.net/aljazeeraflashlive-live/ playpath=aljazeera_doc_high swfUrl=http://arabichannels.com/player3/jw/jwplayer/jwplayer.flash.swf pageUrl=http://arabichannels.com/aljazeera_doc.html live=1 timeout=15
+ rtmp://aljazeeraflashlivefs.fplive.net/aljazeeraflashlive-live/ playpath=aljazeera_doc_high swfUrl=http://arabichannels.com/player3/jw/jwplayer/jwplayer.flash.swf pageUrl=http://arabichannels.com/aljazeera_doc.html live=1 swfVfy=1
  #EXTINF:-1,Al Jazeera Sport Global
- rtmp://arabichannels.com:1935/live/ playpath=jazeera_global swfUrl=http://arabichannels.com/player3/jw/jwplayer/jwplayer.flash.swf pageUrl=http://arabichannels.com/global.html live=1 timeout=15
+ rtmp://arabichannels.com:1935/live/ playpath=jazeera_global swfUrl=http://arabichannels.com/player3/jw/jwplayer/jwplayer.flash.swf pageUrl=http://arabichannels.com/global.html live=1 swfVfy=1
  #EXTINF:-1,Chelsea TV
- rtmp://cp96798.live.edgefcs.net/live/ playpath=ChelTV_Ch01_1000k@26291 swfUrl=http://arabichannels.com/player3/jw/jwplayer/jwplayer.flash.swf pageUrl=http://arabichannels.com/cheltv.html live=1 timeout=15
+ rtmp://cp96798.live.edgefcs.net/live/ playpath=ChelTV_Ch01_1000k@26291 swfUrl=http://arabichannels.com/player3/jw/jwplayer/jwplayer.flash.swf pageUrl=http://arabichannels.com/cheltv.html live=1 swfVfy=1
  #EXTINF:-1,Infinity
- rtmp://mi6.gv.filmon.com/live/_definst_/ playpath=1766.high.stream swfUrl=http://cinema.rotana.net/it-works/jwplayer.flash.swf pageUrl=http://arabichannels.com/infinity.html live=1 timeout=15
+ rtmp://mi6.gv.filmon.com/live/_definst_/ playpath=1766.high.stream swfUrl=http://cinema.rotana.net/it-works/jwplayer.flash.swf pageUrl=http://arabichannels.com/infinity.html live=1 swfVfy=1
  #EXTINF:-1,Qatar
- rtmp://dvrrtmp1.giniko.com:1935/qatartv/ playpath=mp4:qatartv.stream swfUrl=http://arabichannels.com/player3/jw/jwplayer/jwplayer.flash.swf pageUrl=http://arabichannels.com/qatar.html live=1 timeout=15
+ rtmp://dvrrtmp1.giniko.com:1935/qatartv/ playpath=mp4:qatartv.stream swfUrl=http://arabichannels.com/player3/jw/jwplayer/jwplayer.flash.swf pageUrl=http://arabichannels.com/qatar.html live=1 swfVfy=1
  #EXTINF:-1,Dubai One
- rtmp://wms04.endavomedia.com:1935/dmilive/ playpath=dmilivedubaione swfUrl=http://arabichannels.com/player3/jw/jwplayer/jwplayer.flash.swf pageUrl=http://arabichannels.com/dubai_one.html live=1 timeout=15
+ rtmp://wms04.endavomedia.com:1935/dmilive/ playpath=dmilivedubaione swfUrl=http://arabichannels.com/player3/jw/jwplayer/jwplayer.flash.swf pageUrl=http://arabichannels.com/dubai_one.html live=1 swfVfy=1
  #EXTINF:-1,Dubai Sports
- rtmp://dmiLiveDubaiSports.flash.internapcdn.net/dmiLiveDubaiSports/live_1/ playpath=dmilivedubaisports_3 swfUrl=http://vod.dmi.ae/bundles/endavoenhance/js/lib/jwplayer/jwplayer.flash.swf pageUrl=http://vod.dmi.ae/jwplayer/player16.php?width=728&height=435&channel=dubaisports live=1 timeout=15
+ rtmp://dmiLiveDubaiSports.flash.internapcdn.net/dmiLiveDubaiSports/live_1/ playpath=dmilivedubaisports_3 swfUrl=http://vod.dmi.ae/bundles/endavoenhance/js/lib/jwplayer/jwplayer.flash.swf pageUrl=http://vod.dmi.ae/jwplayer/player16.php?width=728&height=435&channel=dubaisports live=1 swfVfy=1
  #EXTINF:-1,Dubai Noor
- rtmp://dmiLiveNoorDubaiTV.flash.internapcdn.net/dmiLiveNoorDubaiTV/live_1/ playpath=dmilivenoordubaitv_3 swfUrl=http://vod.dmi.ae/bundles/endavoenhance/js/lib/jwplayer/jwplayer.flash.swf pageUrl=http://vod.dmi.ae/jwplayer/player16.php?width=728&height=435&channel=noordubaitv live=1 timeout=15
+ rtmp://dmiLiveNoorDubaiTV.flash.internapcdn.net/dmiLiveNoorDubaiTV/live_1/ playpath=dmilivenoordubaitv_3 swfUrl=http://vod.dmi.ae/bundles/endavoenhance/js/lib/jwplayer/jwplayer.flash.swf pageUrl=http://vod.dmi.ae/jwplayer/player16.php?width=728&height=435&channel=noordubaitv live=1 swfVfy=1
  #EXTINF:-1,Abu Dhabi Sport
- rtmp://mi6.gv.filmon.com:1935/live/ playpath=1760.high.stream swfUrl=http://arabichannels.com/player3/jw/jwplayer/jwplayer.flash.swf pageUrl=http://arabichannels.com/abusport.html live=1 timeout=15
+ rtmp://mi6.gv.filmon.com:1935/live/ playpath=1760.high.stream swfUrl=http://arabichannels.com/player3/jw/jwplayer/jwplayer.flash.swf pageUrl=http://arabichannels.com/abusport.html live=1 swfVfy=1
  #EXTINF:-1,Zee TV
- rtmp://zeenatlive.viddillions.com/zeenatlive/ playpath=51ztvlive66.stream swfUrl=http://arabichannels.com/player3/jw/jwplayer/jwplayer.flash.swf pageUrl=http://arabichannels.com/zeecinema.html live=1 timeout=15
+ rtmp://zeenatlive.viddillions.com/zeenatlive/ playpath=51ztvlive66.stream swfUrl=http://arabichannels.com/player3/jw/jwplayer/jwplayer.flash.swf pageUrl=http://arabichannels.com/zeecinema.html live=1 swfVfy=1
  #EXTINF:-1,Saudi Sport
- rtmp://mi6.gv.filmon.com:1935/live/ playpath=1781.high.stream swfUrl=http://arabichannels.com/player3/jw/jwplayer/jwplayer.flash.swf pageUrl=http://arabichannels.com/saudi_sport.html live=1 timeout=15
+ rtmp://mi6.gv.filmon.com:1935/live/ playpath=1781.high.stream swfUrl=http://arabichannels.com/player3/jw/jwplayer/jwplayer.flash.swf pageUrl=http://arabichannels.com/saudi_sport.html live=1 swfVfy=1
  #EXTINF:-1,Fatafeat 
- rtmp://arabichannels.com:1935/live/ playpath=fatafeet swfUrl=http://arabichannels.com/player3/jw/jwplayer/jwplayer.flash.swf pageUrl=http://arabichannels.com/fatafeet.html live=1 timeout=15
+ rtmp://arabichannels.com:1935/live/ playpath=fatafeet swfUrl=http://arabichannels.com/player3/jw/jwplayer/jwplayer.flash.swf pageUrl=http://arabichannels.com/fatafeet.html live=1 swfVfy=1
  #EXTINF:-1,Panorama Drama
- rtmp://arabichannels.com:1935/live/ playpath=panorama_drama2 swfUrl=http://arabichannels.com/player3/jw/jwplayer/jwplayer.flash.swf pageUrl=http://arabichannels.com/panorama_drama2.html live=1 timeout=15
+ rtmp://arabichannels.com:1935/live/ playpath=panorama_drama2 swfUrl=http://arabichannels.com/player3/jw/jwplayer/jwplayer.flash.swf pageUrl=http://arabichannels.com/panorama_drama2.html live=1 swfVfy=1
  #EXTINF:-1,RTM
- rtmp://arabichannels.com:1935/live/ playpath=rtm swfUrl=http://cinema.rotana.net/it-works/jwplayer.flash.swf pageUrl=http://arabichannels.com/rtm.html live=1 timeout=15
+ rtmp://arabichannels.com:1935/live/ playpath=rtm swfUrl=http://cinema.rotana.net/it-works/jwplayer.flash.swf pageUrl=http://arabichannels.com/rtm.html live=1 swfVfy=1
  #EXTINF:-1,2M
- rtmp://10gb1.tulix.tv/2mmaroc/ playpath=2mmaroc swfUrl=http://cinema.rotana.net/it-works/jwplayer.flash.swf pageUrl=http://arabichannels.com/2m.html live=1 timeout=15
+ rtmp://10gb1.tulix.tv/2mmaroc/ playpath=2mmaroc swfUrl=http://cinema.rotana.net/it-works/jwplayer.flash.swf pageUrl=http://arabichannels.com/2m.html live=1 swfVfy=1
  #EXTINF:-1,Al Maghribiya
- rtmp://ca-edge-6.cdn2.streamago.tv:80/streamagoedge/1922?idutente=1922&idcanale=815&pwd=/ playpath=815 swfUrl=http://www.streamago.tv/app/StreamVideo.swf pageUrl=http://arabichannels.com/maghribiya.html live=1 timeout=15
+ rtmp://ca-edge-6.cdn2.streamago.tv:80/streamagoedge/1922?idutente=1922&idcanale=815&pwd=/ playpath=815 swfUrl=http://www.streamago.tv/app/StreamVideo.swf pageUrl=http://arabichannels.com/maghribiya.html live=1 swfVfy=1
  #EXTINF:-1,Mogga Comedy
- rtmp://arabichannels.com:1935/live/ playpath=moga swfUrl=http://arabichannels.com/player3/jw/jwplayer/jwplayer.flash.swf pageUrl=http://arabichannels.com/megacomedy.html live=1 timeout=15
+ rtmp://arabichannels.com:1935/live/ playpath=moga swfUrl=http://arabichannels.com/player3/jw/jwplayer/jwplayer.flash.swf pageUrl=http://arabichannels.com/megacomedy.html live=1 swfVfy=1
  #EXTINF:-1,Abu Dhabi 1
- rtmp://dvrrtmp1.giniko.com:1935/abudhabitv/ playpath=mp4:abudhabitv.stream swfUrl=http://arabichannels.com/player3/jw/jwplayer/jwplayer.flash.swf pageUrl=http://arabichannels.com/abudhabitv.html live=1 timeout=15
+ rtmp://dvrrtmp1.giniko.com:1935/abudhabitv/ playpath=mp4:abudhabitv.stream swfUrl=http://arabichannels.com/player3/jw/jwplayer/jwplayer.flash.swf pageUrl=http://arabichannels.com/abudhabitv.html live=1 swfVfy=1
  #EXTINF:-1,Future TV
- rtmp://arabichannels.com:1935/live/ playpath=future swfUrl=http://arabichannels.com/player3/jw/jwplayer/jwplayer.flash.swf pageUrl=http://arabichannels.com/future.html live=1 timeout=15
+ rtmp://arabichannels.com:1935/live/ playpath=future swfUrl=http://arabichannels.com/player3/jw/jwplayer/jwplayer.flash.swf pageUrl=http://arabichannels.com/future.html live=1 swfVfy=1
+ #EXTINF:-1,France 2
+ rtmp://live300.edge.filmon.com/live/?id=0ad5aac39bb13fbe39072d603467fa0ee2c9f7d1f007772e3c6cf6e0db3b92708305db50dd7012fc554ed4a9bca6ffa6375385336e0e35931fe0ff63ec1de3fef9ed2e438e27ae0b5486f68ec970b9ad1b4cae9a0c4267a0dc68f5b1a23be7f32864c68f7804182ac83c7184b0e585e93d9996692f62f7227080261ef0999e2620906c034cce1b6bb819972154928e147fd11954ec4d218a/ playpath=1717.high.stream swfUrl=http://www.filmon.com/tv/modules/FilmOnTV/files/flashapp/filmon/FilmonPlayerMetro.swf?v=22 pageUrl=http://www.filmon.com/
+ #EXTINF:-1,France 3
+ rtmp://live300.edge.filmon.com/live/?id=0ad5aac39bb13fbef2aec029b3beb5296d9b71ef8b73579bd2fd1e812cf68e16ca9bbf932e39bbe0c69db787de1bfb9044d905c376226ee2f110d97d18bbde8219a40aa7962bc7918b961a88b082f51e131c4234df93aed9aa67d0fc75963ee70de84da024ee3ad6743be455ed1adbacaac50276e60afdc8dd100b41682735e259ee7f255f2dd97101b5db10816d72aa1c648243a413df3e/ playpath=1723.high.stream swfUrl=http://www.filmon.com/tv/modules/FilmOnTV/files/flashapp/filmon/FilmonPlayerMetro.swf?v=22 pageUrl=http://www.filmon.com/
+ #EXTINF:-1,France 5
+ rtmp://live300.edge.filmon.com/live/?id=0ad5aac39bb13fbef2aec029b3beb5296d9b71ef8b73579bd2fd1e812cf68e16ca9bbf932e39bbe0c69db787de1bfb9044d905c376226ee2f110d97d18bbde8219a40aa7962bc7918b961a88b082f51e131c4234df93aed9aa67d0fc75963ee70de84da024ee3ad6743be455ed1adbacaac50276e60afdc8dd100b41682735e259ee7f255f2dd97101b5db10816d72aa1c648243a413df3e/ playpath=1720.high.stream swfUrl=http://www.filmon.com/tv/modules/FilmOnTV/files/flashapp/filmon/FilmonPlayerMetro.swf?v=22 pageUrl=http://www.filmon.com/
+ #EXTINF:-1,MBC 2
+ rtmp://live308.edge.filmon.com/live/?id=0ad5aac39bb13fbef2aec029b3beb5296d9b71ef8b73579bd2fd1e812cf68e16ca9bbf932e39bbe0c69db787de1bfb9044d905c376226ee2f110d97d18bbde8219a40aa7962bc7918b961a88b082f51e131c4234df93aed9aa67d0fc75963ee70de84da024ee3ad6743be455ed1adbacaac50276e60afdc8dd100b41682735e259ee7f255f2dd97101b5db10816d72aa1c648243a413df3e/ playpath=368.high.stream swfUrl=http://www.filmon.com/tv/modules/FilmOnTV/files/flashapp/filmon/FilmonPlayerMetro.swf?v=22 pageUrl=http://www.filmon.com/
+ #EXTINF:-1,Abu Dhabi Sport 1
+ rtmp://204.107.27.247/live/?id=0ad5aac39bb13fbef2aec029b3beb5296d9b71ef8b73579bd2fd1e812cf68e16ca9bbf932e39bbe0c69db787de1bfb9044d905c376226ee2f110d97d18bbde8219a40aa7962bc7918b961a88b082f51e131c4234df93aed9aa67d0fc75963ee70de84da024ee3ad6743be455ed1adbacaac50276e60afdc8dd100b41682735e259ee7f255f2dd97101b5db10816d72aa1c648243a413df3e/ playpath=1760.high.stream swfUrl=http://www.filmon.com/tv/modules/FilmOnTV/files/flashapp/filmon/FilmonPlayerMetro.swf?v=22 pageUrl=http://www.filmon.com/
+ 
  ### Radio Channels
  #EXTINF:-1,(RADIO) Mosaique FM
  http://radio.mosaiquefm.net:8000/mosalive
