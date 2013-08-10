@@ -26,7 +26,7 @@
  #EXTINF:-1,Al Motawasset TV
  rtmp://85.12.5.5/wl/channel/ playpath=webc1401 swfUrl=http://www.webcaston.com/player/player.swf pageUrl=http://www.webcaston.com/embed.php?fileid=webc1401&vw=468&vh=340&domain=www.tunisvista.com live=1 swfVfy=1
  #EXTINF:-1,Nessma Hamra 
- rtmp://206.190.133.60:1935/teledunet/ playpath=nessma swfUrl=http://www.teledunet.com/tv/player.swf?duration_=3600&abouttxt=Teledunet&shuffle=true&rotatetime=1&repeat=true&autobuffer_=true&showstop=false&autoscroll=true&enablejs=true&repeat=list&bufferlength_=5&screencolor_=F0F0F0&controlbar_=over&autostart=true&stretching_=none&id0=81837055849000&streamer=rtmp://206.190.133.60%3A1935/teledunet&file=nessma&provider=rtmp&skin=bekle/bekle.xml pageUrl=http://www.teledunet.com/tv/?channel=nessma&no_pub live=1 swfVfy=1
+ http://193.95.93.146/nessma
  #EXTINF:-1,Hannibal
  rtmp://85.17.73.7/live playpath=MPL2s?id=16961 swfUrl=http://mips.tv/content/scripts/eplayer.swf pageUrl=http://mips.tv/embedplayer/MPL2s/1/500/400 live=1 conn=S:OK swfVfy=1
  #EXTINF:-1,Ramadan TV
@@ -80,16 +80,32 @@
  #EXTINF:-1,Future TV
  rtmp://arabichannels.com:1935/live/ playpath=future swfUrl=http://arabichannels.com/player3/jw/jwplayer/jwplayer.flash.swf pageUrl=http://arabichannels.com/future.html live=1 swfVfy=1
  #EXTINF:-1,France 2
- rtmp://live300.edge.filmon.com/live/?id=0ad5aac39bb13fbe39072d603467fa0ee2c9f7d1f007772e3c6cf6e0db3b92708305db50dd7012fc554ed4a9bca6ffa6375385336e0e35931fe0ff63ec1de3fef9ed2e438e27ae0b5486f68ec970b9ad1b4cae9a0c4267a0dc68f5b1a23be7f32864c68f7804182ac83c7184b0e585e93d9996692f62f7227080261ef0999e2620906c034cce1b6bb819972154928e147fd11954ec4d218a/ playpath=1717.high.stream swfUrl=http://www.filmon.com/tv/modules/FilmOnTV/files/flashapp/filmon/FilmonPlayerMetro.swf?v=22 pageUrl=http://www.filmon.com/
+ rtmp://live300.edge.filmon.com/live/?id=0ad5aac39bb13fbe39072d603467fa0ee2c9f7d1f007772e3c6cf6e0db3b92708305db50dd7012fc554ed4a9bca6ffa6375385336e0e35931fe0ff63ec1de3fef9ed2e438e27ae0b5486f68ec970b9ad1b4cae9a0c4267a0dc68f5b1a23be7f32864c68f7804182ac83c7184b0e585e93d9996692f62f7227080261ef0999e2620906c034cce1b6bb819972154928e147fd11954ec4d218a/ playpath=1717.high.stream swfUrl=http://www.filmon.com/tv/modules/FilmOnTV/files/flashapp/filmon/FilmonPlayerMetro.swf?v=22 pageUrl=http://www.filmon.com/ live=1 swfVfy=1
  #EXTINF:-1,France 3
- rtmp://live300.edge.filmon.com/live/?id=0ad5aac39bb13fbef2aec029b3beb5296d9b71ef8b73579bd2fd1e812cf68e16ca9bbf932e39bbe0c69db787de1bfb9044d905c376226ee2f110d97d18bbde8219a40aa7962bc7918b961a88b082f51e131c4234df93aed9aa67d0fc75963ee70de84da024ee3ad6743be455ed1adbacaac50276e60afdc8dd100b41682735e259ee7f255f2dd97101b5db10816d72aa1c648243a413df3e/ playpath=1723.high.stream swfUrl=http://www.filmon.com/tv/modules/FilmOnTV/files/flashapp/filmon/FilmonPlayerMetro.swf?v=22 pageUrl=http://www.filmon.com/
+ rtmp://live300.edge.filmon.com/live/?id=0ad5aac39bb13fbef2aec029b3beb5296d9b71ef8b73579bd2fd1e812cf68e16ca9bbf932e39bbe0c69db787de1bfb9044d905c376226ee2f110d97d18bbde8219a40aa7962bc7918b961a88b082f51e131c4234df93aed9aa67d0fc75963ee70de84da024ee3ad6743be455ed1adbacaac50276e60afdc8dd100b41682735e259ee7f255f2dd97101b5db10816d72aa1c648243a413df3e/ playpath=1723.high.stream swfUrl=http://www.filmon.com/tv/modules/FilmOnTV/files/flashapp/filmon/FilmonPlayerMetro.swf?v=22 pageUrl=http://www.filmon.com/ live=1 swfVfy=1
  #EXTINF:-1,France 5
- rtmp://live300.edge.filmon.com/live/?id=0ad5aac39bb13fbef2aec029b3beb5296d9b71ef8b73579bd2fd1e812cf68e16ca9bbf932e39bbe0c69db787de1bfb9044d905c376226ee2f110d97d18bbde8219a40aa7962bc7918b961a88b082f51e131c4234df93aed9aa67d0fc75963ee70de84da024ee3ad6743be455ed1adbacaac50276e60afdc8dd100b41682735e259ee7f255f2dd97101b5db10816d72aa1c648243a413df3e/ playpath=1720.high.stream swfUrl=http://www.filmon.com/tv/modules/FilmOnTV/files/flashapp/filmon/FilmonPlayerMetro.swf?v=22 pageUrl=http://www.filmon.com/
+ rtmp://live300.edge.filmon.com/live/?id=0ad5aac39bb13fbef2aec029b3beb5296d9b71ef8b73579bd2fd1e812cf68e16ca9bbf932e39bbe0c69db787de1bfb9044d905c376226ee2f110d97d18bbde8219a40aa7962bc7918b961a88b082f51e131c4234df93aed9aa67d0fc75963ee70de84da024ee3ad6743be455ed1adbacaac50276e60afdc8dd100b41682735e259ee7f255f2dd97101b5db10816d72aa1c648243a413df3e/ playpath=1720.high.stream swfUrl=http://www.filmon.com/tv/modules/FilmOnTV/files/flashapp/filmon/FilmonPlayerMetro.swf?v=22 pageUrl=http://www.filmon.com/ live=1 swfVfy=1
  #EXTINF:-1,MBC 2
- rtmp://live308.edge.filmon.com/live/?id=0ad5aac39bb13fbef2aec029b3beb5296d9b71ef8b73579bd2fd1e812cf68e16ca9bbf932e39bbe0c69db787de1bfb9044d905c376226ee2f110d97d18bbde8219a40aa7962bc7918b961a88b082f51e131c4234df93aed9aa67d0fc75963ee70de84da024ee3ad6743be455ed1adbacaac50276e60afdc8dd100b41682735e259ee7f255f2dd97101b5db10816d72aa1c648243a413df3e/ playpath=368.high.stream swfUrl=http://www.filmon.com/tv/modules/FilmOnTV/files/flashapp/filmon/FilmonPlayerMetro.swf?v=22 pageUrl=http://www.filmon.com/
+ rtmp://live308.edge.filmon.com/live/?id=0ad5aac39bb13fbef2aec029b3beb5296d9b71ef8b73579bd2fd1e812cf68e16ca9bbf932e39bbe0c69db787de1bfb9044d905c376226ee2f110d97d18bbde8219a40aa7962bc7918b961a88b082f51e131c4234df93aed9aa67d0fc75963ee70de84da024ee3ad6743be455ed1adbacaac50276e60afdc8dd100b41682735e259ee7f255f2dd97101b5db10816d72aa1c648243a413df3e/ playpath=368.high.stream swfUrl=http://www.filmon.com/tv/modules/FilmOnTV/files/flashapp/filmon/FilmonPlayerMetro.swf?v=22 pageUrl=http://www.filmon.com/ live=1 swfVfy=1
  #EXTINF:-1,Abu Dhabi Sport 1
- rtmp://204.107.27.247/live/?id=0ad5aac39bb13fbef2aec029b3beb5296d9b71ef8b73579bd2fd1e812cf68e16ca9bbf932e39bbe0c69db787de1bfb9044d905c376226ee2f110d97d18bbde8219a40aa7962bc7918b961a88b082f51e131c4234df93aed9aa67d0fc75963ee70de84da024ee3ad6743be455ed1adbacaac50276e60afdc8dd100b41682735e259ee7f255f2dd97101b5db10816d72aa1c648243a413df3e/ playpath=1760.high.stream swfUrl=http://www.filmon.com/tv/modules/FilmOnTV/files/flashapp/filmon/FilmonPlayerMetro.swf?v=22 pageUrl=http://www.filmon.com/
- 
+ rtmp://204.107.27.247/live/?id=0ad5aac39bb13fbef2aec029b3beb5296d9b71ef8b73579bd2fd1e812cf68e16ca9bbf932e39bbe0c69db787de1bfb9044d905c376226ee2f110d97d18bbde8219a40aa7962bc7918b961a88b082f51e131c4234df93aed9aa67d0fc75963ee70de84da024ee3ad6743be455ed1adbacaac50276e60afdc8dd100b41682735e259ee7f255f2dd97101b5db10816d72aa1c648243a413df3e/ playpath=1760.high.stream swfUrl=http://www.filmon.com/tv/modules/FilmOnTV/files/flashapp/filmon/FilmonPlayerMetro.swf?v=22 pageUrl=http://www.filmon.com/ live=1 swfVfy=1
+ #EXTINF:-1,Nile Cinema
+ rtmp://livestreaming4.onlinehorizons.net/NTNNileCinema/ playpath=livestream swfUrl=http://niletc.tv/player/player.swf pageUrl=http://niletc.tv/stream.php?ch=cinema live=1 swfVfy=1
+ #EXTINF:-1,Nile Life
+ rtmp://livestreaming4.onlinehorizons.net/NTNNileLife/ playpath=livestream swfUrl=http://niletc.tv/player/player.swf pageUrl=http://niletc.tv/stream.php?ch=cinema live=1 swfVfy=1
+ #EXTINF:-1,Nile Drama
+ rtmp://livestreaming4.onlinehorizons.net/NTNNileDrama/ playpath=livestream swfUrl=http://niletc.tv/player/player.swf pageUrl=http://niletc.tv/stream.php?ch=cinema live=1 swfVfy=1
+ #EXTINF:-1,Nile Sport
+ rtmp://livestreaming4.onlinehorizons.net/NTNNileSport/ playpath=livestream swfUrl=http://niletc.tv/player/player.swf pageUrl=http://niletc.tv/stream.php?ch=cinema live=1 swfVfy=1
+ #EXTINF:-1,Nile Comedy
+ rtmp://livestreaming4.onlinehorizons.net/NTNNileComedy/ playpath=livestream swfUrl=http://niletc.tv/player/player.swf pageUrl=http://niletc.tv/stream.php?ch=cinema live=1 swfVfy=1
+ #EXTINF:-1,Nile Culture
+ rtmp://livestreaming4.onlinehorizons.net/NTNNileCulture/ playpath=livestream swfUrl=http://niletc.tv/player/player.swf pageUrl=http://niletc.tv/stream.php?ch=cinema live=1 swfVfy=1
+ #EXTINF:-1,Nile Family
+ rtmp://livestreaming4.onlinehorizons.net/NTNNileFamily/ playpath=livestream swfUrl=http://niletc.tv/player/player.swf pageUrl=http://niletc.tv/stream.php?ch=cinema live=1 swfVfy=1
+ #EXTINF:-1,Nile Learning
+ rtmp://livestreaming4.onlinehorizons.net/Learning1/ playpath=livestream swfUrl=http://niletc.tv/player/player.swf pageUrl=http://niletc.tv/stream.php?ch=cinema live=1 swfVfy=1
+
  ### Radio Channels
  #EXTINF:-1,(RADIO) Mosaique FM
  http://radio.mosaiquefm.net:8000/mosalive
