@@ -105,7 +105,4 @@
  rtmp://livestreaming4.onlinehorizons.net/NTNNileFamily/ playpath=livestream swfUrl=http://niletc.tv/player/player.swf pageUrl=http://niletc.tv/stream.php?ch=cinema live=1 swfVfy=1
  #EXTINF:-1,Nile Learning
  rtmp://livestreaming4.onlinehorizons.net/Learning1/ playpath=livestream swfUrl=http://niletc.tv/player/player.swf pageUrl=http://niletc.tv/stream.php?ch=cinema live=1 swfVfy=1
-
- ### Radio Channels
- #EXTINF:-1,(RADIO) Mosaique FM
- http://radio.mosaiquefm.net:8000/mosalive
+ 
