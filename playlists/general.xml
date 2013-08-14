@@ -1,0 +1,187 @@
+#######################################################################################################################################
+<poster>Crusader</poster>
+<fanart></fanart>
+#######################################################################################################################################
+<info>
+<message></message>
+<thumbnail></thumbnail>
+</info>
+##############################################################################################################################
+
+
+<item>
+<title>Tele Liban</title>
+<link>http://nidal.myftp.org/hls/mux-udp-005/playplist.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/tt/tele_liban.jpg</thumbnail>
+</item>
+
+<item>
+<title>CBC +2</title>
+<link>http://nidal.myftp.org/hls/mux-udp-506/playlist.m3u8</link>
+<thumbnail>http://egylab.ucoz.com/tv/imge/cbc2channel.jpg</thumbnail>
+</item>
+
+<item>
+<title>Al Masriya  </title>
+<link>http://nidal.myftp.org/hls/mux-udp-024/playplist.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/al_masriya_eg.jpg</thumbnail>
+</item>
+
+<item>
+<title>Tunisia TV</title>
+<link>http://streamer.fss.tiscali.com/satchannel1/tvtunisi.stream/playlist.m3u8</link>
+<thumbnail>http://referenceur-tv.com/wp-content/uploads/2009/07/tunisia-tv1-television-tunisienne-gratuite-en-direct-streaming.png</thumbnail>
+</item>
+
+<item>
+<title>On TV</title>
+<link>plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=mvbCLboCZDc</link>
+<thumbnail>http://egylab.ucoz.com/imge/on_tv.png</thumbnail>
+</item>
+
+<item>
+<title>BAHRAIN TV 3</title>
+<link>rtmp://155.obj.netromedia.net/alayam playpath=alayam swfUrl=http://www.elahmad.com/tv/swf/bahrain.swf/[[DYNAMIC]]/2/[[DYNAMIC]]/3 live=true timeout=15 pageUrl=http://www.elahmad.com/tv/bahrain.php</link>
+<thumbnail>http://www.suhailalgosaibi.com/wp-content/uploads/2011/03/bahrain_tv.png</thumbnail>
+</item>
+
+<item>
+<title>AL SHARQIYA DRAMA</title>
+<link>rtmp://ns9.indexforce.com/highres playpath=mystream swfUrl=http://www.alsharqiyatv.com/player.swf live=true timeout=15</link>
+<thumbnail>http://en.kingofsat.net/jpg/alsharqiya-drama.jpg</thumbnail>
+</item>
+
+<item>
+<title>BAGHDAD SAT</title>
+<link>rtmp://212.7.196.88/live playpath=baghdad swfUrl=http://www.primcast.com/jwplayer5/player.swf live=true timeout=15</link>
+<thumbnail>http://playbolo.tv/pics/BagdadChannel-big.jpg</thumbnail>
+</item>
+
+<item>
+<title>AL SUMARIYA</title>
+<link>rtmp://livestreaming2.itworkscdn.net/sumarialive playpath=live_360p swfUrl=http://www.alsumaria.tv/LiveMedia4/jwplayer.flash.swf live=true timeout=15 pageUrl=http://www.alsumaria.tv/watch-Alsumaria-Live</link>
+<thumbnail>http://www.linktv.org/sitecontent/mosaic_broadcasters/alsumariya.jpg</thumbnail>
+</item>
+
+<item>
+<title>AL Rai</title>
+<link>mms://62.215.216.130/wmtencoder/alrai350.wmv</link>
+<thumbnail>http://www.kooora.com/images/channel_/alrai_tv.jpg</thumbnail>
+</item>
+
+<item>
+<title>NBN Lebanon</title>
+<link>rtmp://lived.nbn.com.lb/nbn playpath=mpegts.stream swfUrl=http://www.nbn.com.lb/live/flowplayer/flowplayer-3.2.16.swf live=true timeout=15 pageUrl=http://www.watchfomny.com/Video/Lebanon/NBN/NBN-Lebanon.htm</link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/en/1/14/Nbn_lebanon.png</thumbnail>
+</item>
+
+<item>
+<title>Addounia TV</title>
+<link>rtmp://95.211.184.203/live playpath=donia swfUrl=http://www.addounia.tv/live/player.swf live=true timeout=15 pageUrl=http://www.addounia.tv/index.php?page=live
+</link>
+<thumbnail>http://www.6rrb.net/tv/files/image/ADDOUNIA25879.jpg</thumbnail>
+</item>
+
+<item>
+<title>Sama Syria</title>
+<link>rtmp://95.211.184.203:1935/live playpath=live swfUrl=http://www.sama-tv.net/player.swf live=true timeout=15 pageUrl=http://www.sama-tv.net/index.php?page=live
+</link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/en/7/75/Sama_TV_Logo.png</thumbnail>
+</item>
+
+<item>
+<title>AL FORAT</title>
+<link>rtmp://alforatlive.nanocdn.com:1935/live playpath=alforat256</link>
+<thumbnail>http://www.ashura.tv/live-tv/al-forat-tv/logo.jpg</thumbnail>
+</item>
+
+<item>
+<title>Kuwait 1</title>
+<link>http://62.215.183.1/Segments/HLS_TS/rtpencoder/ch1.sdp.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/kk/ktv_1.png</thumbnail>
+</item>
+
+<item>
+<title>Al Hiwar</title>
+<link>http://209.236.66.43/hls-live/livepkgr/_definst_/liveevent/livestream.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/aa/al_hiwar.png</thumbnail>
+</item>
+
+<item>
+<title>Kuwait 2</title>
+<link>http://62.215.183.1/Segments/HLS_TS/rtpencoder/ch2.sdp.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/kk/ktv_2.png</thumbnail>
+</item>
+
+<item>
+<title>Al Quds</title>
+<link>http://196.205.23.142:8134/hls-live/livepkgr/_definst_/liveevent/livestream.m3u8</link>
+<thumbnail>http://1.bp.blogspot.com/-KBETksdbRo4/UQeAGj-i0eI/AAAAAAAAq70/aFpIbT28KTw/s1600/al_quds_tv_palestine_channel_live_online_free_arabic_channel.JPG</thumbnail>
+</item>
+
+<item>
+<title> Alayam TV</title>
+<link>http://btv.alayam.com/alayam/alayam/playlist.m3u8</link>
+<thumbnail>http://www.listenradiostreaming.com/wp-content/uploads/2013/01/Alayam-FM-93.3-Station-Live-Online-Free-Bahrain.jpg</thumbnail>
+</item>
+
+<item>
+<title>OTV Lebanon</title>
+<link>rtmp://livestreaming4.itworkscdn.com/otv playpath=otvlive swfUrl=http://www.otv.com.lb/otvent/jwplayer.flash.swf live=true timeout=15 pageUrl=http://www.otv.com.lb/otvent/live.php</link>
+<thumbnail>http://www.fanoos.com/ia/otv_orange_television.jpg</thumbnail>
+</item>
+
+<item>
+<title>Future (Link 2)</title>
+<link>http://nidal.myftp.org/hls/mux-udp-002/playplist.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/ff/future_tv_international.jpg</thumbnail>
+</item>
+
+<item>
+<title>Future</title>
+<link>http://nidal.myftp.org/hls/mux-udp-006/playplist.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/ff/future_tv_international.jpg</thumbnail>
+</item>
+
+<item>
+<title>MTV Lebanon (Link 2)</title>
+<link>http://nidal.myftp.org/hls/mux-udp-004/playplist.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/mm/murr_tv_lebanon.jpg</thumbnail>
+</item>
+
+<item>
+<title>LBC  (Link 2)</title>
+<link>http://nidal.myftp.org/hls/mux-udp-311/playplist.m3u8</link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/fr/thumb/6/61/LBC_Europe_Logo.svg/220px-LBC_Europe_Logo.svg.png</thumbnail>
+</item>
+
+<item>
+<title>LBC International(LBC Europe)</title>
+<link>rtmp://livestreaming.itworkscdn.net/lbclive playpath=lbc_1 swfUrl=http://www.lbcgroup.tv/livemedia4/jwplayer.flash.swf live=true timeout=15 pageUrl=http://www.lbcgroup.tv/watch-lbci-live</link>
+<thumbnail>http://3.bp.blogspot.com/-WuocdC0K9zg/T5hiDrsJySI/AAAAAAAABYg/Vy_-ZiKNIOQ/s1600/582643_356984461016626_119723014742773_951695_695582465_n.jpg</thumbnail>
+</item>
+
+<item>
+<title>Rayyan TV</title>
+<link>rtmp://cp177118.live.edgefcs.net/live/alrayyan_ar_1@73925 playpath=alrayyan_ar_1@73925 swfUrl=http://www.alrayyan.tv/Style Library/jwPlayer/player.swf live=true timeout=15 pageUrl=http://www.alrayyan.tv/Arabic/Pages/AlrayanLive.aspx
+</link>
+<thumbnail>http://www.wide-systems.com/wp-content/uploads/2012/05/Alrayyan.jpg</thumbnail>
+</item>
+
+<item>
+<title>Qatar TV</title>
+<link>http://78.100.44.238/live-qtv/qtv/playlist.m3u8</link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/commons/0/01/Qatar_TV_Logo.png</thumbnail>
+</item>
+
+<item>
+<title>Iraqi Media Network</title>
+<link>mms://212.7.196.74/iraqia</link>
+<thumbnail>http://images-mediawiki-sites.thefullwiki.org/08/4/2/3/4905202658349467.png</thumbnail>
+</item>
+
+<item>
+<title>EL SHOROOQ TV</title>
+<link>http://live.echoroukonline.com/live/EchoroukTV/playlist.m3u8</link>
+<thumbnail>http://arabicfomny.com/fomnyarabictv/alshorooq_tv_live.jpg</thumbnail>
+</item>
