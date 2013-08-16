@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addon
   id="pvr.iptvsimple-all"
-  version="0.1.1"
+  version="0.1.2"
   name="PVR IPTV Simple Client All Platfroms"
   provider-name="Original nightik/Edited by pampereo">
   <requires>
