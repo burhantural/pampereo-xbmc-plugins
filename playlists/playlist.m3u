@@ -365,3 +365,365 @@ http://83.249.249.224:4022/udp/239.1.1.1:9096
 http://83.249.249.224:4022/udp/239.1.1.1:9097
 #EXTINF:-1,9098
 http://83.249.249.224:4022/udp/239.1.1.1:9098
+#EXTINF:-1,AD SPORT 3
+rtmp://$OPT:rtmp-raw=rtmp://5.63.144.244/live playpath=srgregreeer?id=171810 swfUrl=http://mips.tv/content/scripts/eplayer.swf live=1 pageUrl=http://mips.tv/embedplayer/activacion1/1/650/400 conn=S:OK –live
+#EXTINF:-1,ALJAZEERA + 9
+rtmp://$OPT:rtmp-raw=rtmp://46.165.251.99/live playpath=deafdeafzafaza?id=173743 swfUrl=http://mips.tv/content/scripts/eplayer.swf live=1 pageUrl=http://mips.tv/embedplayer/activacion1/1/650/400 conn=S:OK –live
+#EXTINF:-1,ARABIC - Abu Dhabi Sports
+rtmp://mi6.gv.filmon.com:1935/live/1760.high.stream
+#EXTINF:-1,ARABIC - Al Kass Sport
+rtmp://$OPT:rtmp-raw=rtmp://fml.44C9.edgecastcdn.net/2044C9/ pageUrl=http://shoof.alkass.net/shoof/?live=1 swfUrl=http://shoof.alkass.net/shoof/jwplayer/player.swf live=1 playpath=sd1?e32719fb7f5675b7285acc2c3c4aaaab2613f2ea2c86da1894bb6c6f1f693d03436df4649356b724cdcbde
+#EXTINF:-1,ARABIC - Al Waad Tv
+rtmp://streaming.stimme-der-hoffnung.de/hcname2/livestreamhcname
+#EXTINF:-1,ARABIC - Bahrain
+http://www.brdog.net/brdog_stv/sports/bahrain.asx
+#EXTINF:-1,ARABIC - BAHRAIN SPORTS
+rtmp://alayam.netromedia.net/btv3/btv3
+#EXTINF:-1,ARABIC - Saudi Arabian TV Sports
+rtmp://mi6.gv.filmon.com:1935/live/1781.high.stream
+#EXTINF:-1,AR-RIYADIAH 3
+rtmp://$OPT:rtmp-raw=rtmp://206.190.138.68/live playpath=acaeczeczecz?id=174388 swfUrl=http://mips.tv/content/scripts/eplayer.swf live=1 pageUrl=http://mips.tv/embedplayer/activacion1/1/650/400 conn=S:OK –live
+#EXTINF:-1,Automotive TV
+rtsp://46.249.213.87/broadcast/automotivetv-tablet.3gp
+#EXTINF:-1,BEIN SPORT SPANISH 
+rtmp://$OPT:rtmp-raw=rtmp://159.253.145.159/live playpath=188328 swfUrl=http://www.udemy.com/static/flash/player5.9.swf live=1 pageUrl=http://castalba.tv/channel/15754
+#EXTINF:-1,BENFICA TV
+rtmp://$OPT:rtmp-raw=rtmp://edge.isearch.to/edge/heh4knx06v0klgj pageUrl=http://www.ilive.to swfUrl=http://player.ilive.to/player_ilive.swf
+#EXTINF:-1,BLAST SPORT
+http://218.202.219.67/channels/xjyx/JinBaoTiYu-Suma/flv:300k_flv
+#EXTINF:-1,Brasil - ESPN
+http://31.204.153.71:1935/live/master05/hasbahca.m3u8
+#EXTINF:-1,Brasil - ESPN +
+http://31.204.128.74:1935/live/master27/hasbahca.m3u8
+#EXTINF:-1,Brasil - FOX SPORT
+http://31.204.153.72:1935/live/fsb/hasbahca.m3u8
+#EXTINF:-1,Brasil - TV Pocos - Sports
+rtmp://rtmp.cdn.upx.net.br/00084/myStream.sdp
+#EXTINF:-1,BRASIL ESPORTE INTERATIVO
+http://31.204.153.70:1935/live/brlive_0029/hasbahca.m3u8
+#EXTINF:-1,Channel BMW BG mms
+mms://83.222.161.217/bmw
+#EXTINF:-1,Channel Electric BG mms
+mms://83.222.161.217/channel_electric
+#EXTINF:-1,Channel Italy BG mms
+mms://83.222.161.217/channel_italy
+#EXTINF:-1,Channel Mercedes BG mms
+mms://83.222.161.217/channel_mercedes
+#EXTINF:-1,Channel Porsche BG mms
+mms://83.222.161.217/channel_porsche
+#EXTINF:-1,CHELSEA TV
+rtmp://cp96798.live.edgefcs.net/live/ChelTV_Ch01_1000k@26291
+#EXTINF:-1,Chelsea TV
+http://www.brdog.net/brdog_stv/sports/chelsea_tv.asx
+#EXTINF:-1,China - CSPN
+rtsp://58.48.156.93/hubeitiyu
+#EXTINF:-1,CHINA - Shanghai Sports
+http://live-cdn1.smgbb.tv/channels/bbtv/ssty/flv:sd
+#EXTINF:-1,CHINA - Shanghai Sports
+http://livehttp.wasu.cn:18080/shanghaisports.flv
+#EXTINF:-1,CHINA BEST SPORTS
+http://202.100.69.170/PLTV/88888888/224/0/3221225682/iptv2454.smil
+#EXTINF:-1,CHINA Best Sports
+rtsp://360skylive.wasu.cn:554/live/jbty
+#EXTINF:-1,CHINA Electronic Sports
+rtsp://360skylive.wasu.cn:554/live/dzty
+#EXTINF:-1,CHINA EVROPA V FOTBALE
+http://202.100.69.170/PLTV/88888888/224/3221225942/10000100000000060000000000059694_0.smil
+#EXTINF:-1,CHINA Hangzhou Sports
+rtsp://360skylive.wasu.cn:554/live/htv5
+#EXTINF:-1,Classic Goals
+rtsp://46.249.213.93/broadcast/classicgoals-tablet.3gp
+#EXTINF:-1,Climb On
+rtsp://46.249.213.93/broadcast/climbon-tablet.3gp
+#EXTINF:-1,Czech - CT SPORT
+http://212.79.96.134:8014/
+#EXTINF:-1,Drift 4 Ever
+rtsp://46.249.213.93/broadcast/drift4ever-tablet.3gp
+#EXTINF:-1,ESPN 2 ENG
+rtmp://$OPT:rtmp-raw=rtmpe://live.univisionbrazil.com/modelo/espn2.live swfUrl=http://livecupbrazil.com/player/player.swf live=1 pageUrl=http://livecupbrazil.com/channel.php?n=espn2
+#EXTINF:-1,ESPN CBB Live
+http://vod3.livestream.com//events/00000000001b6815/b976d5db-bfe9-40ee-849a-3a40e53f6ef1_446.mp4?v=2.10.3&fp=WIN%2011,7,700,169&r=HYQVY&g=BHYYQGFJUIEC
+#EXTINF:-1,ESPN Content of Character
+http://vod9.livestream.com//events/00000000001b8d44/55b51d7a-39df-4314-ab04-bf4bf4b320f5_446.mp4?v=2.10.3&fp=WIN2011,7,700,169&r=HCXXD&g=KVYBKQFINKLQ
+#EXTINF:-1,ESPN DEPORTES
+rtmp://$OPT:rtmp-raw=rtmp://85.17.73.7/live playpath=adsf34adfadsf?id=176789 swfUrl=http://mips.tv/content/scripts/eplayer.swf live=1 pageUrl=http://mips.tv/embedplayer/adsf34adfadsf/1/600/400 Conn=S:OK --live
+#EXTINF:-1,ESPN ENG
+rtmp://$OPT:rtmp-raw=rtmpe://live.univisionbrazil.com/modelo/espn.live swfUrl=http://livecupbrazil.com/player/player.swf live=1 pageUrl=http://livecupbrazil.com/channel.php?n=espn
+#EXTINF:-1,ESPN NBA Live
+http://vod9.livestream.com//events/00000000001b6817/120541e3-e160-4571-9ad7-ef52764622a7_446.mp4?v=2.10.3&fp=WIN2011,7,700,169&r=HOFMQ&g=RIBWTHHBGVIS
+#EXTINF:-1,EUROSPORT (Spanish)
+http://esioslive-i.akamaihd.net/hls/live/201630/AL_ESP1_SP_SPA/playlist_1800.m3u8
+#EXTINF:-1,Eurosport 1 (EN)
+http://esioslive2-i.akamaihd.net/hls/live/201149/AL_ESP1_INT_ENG/playlist_1800.m3u8
+#EXTINF:-1,EUROSPORT FI
+http://83.216.4.109/wv_eurosport/prog_index-00.m3u8?alt=1
+#EXTINF:-1,Football siam tv
+rtmp://$OPT:rtmp-raw=rtmp://58.97.57.152/live playpath=ch05 swfUrl=http://www.one2hd.com/swfs/mediaPlayer/mediaPlayer.swf pageUrl=http://www.one2hd.com/
+#EXTINF:-1,FOX Deportes
+rtmp://$OPT:rtmp-raw=rtmp://50.22.223.51/live playpath=piieri0s0asp?id=51170 swfUrl=http://www.ucaster.eu/static/scripts/eplayer.swf live=1 pageUrl=http://www.tvdeportesgratis.com/2013/07/psn-1.html conn=S:OK --live
+#EXTINF:-1,FOXSPORTS PLUS
+rtmp://$OPT:rtmp-raw=rtmp://edge.isearch.to/edge/bmdkf4xc8kozvvb pageUrl=http://www.ilive.to swfUrl=http://player.ilive.to/player_ilive.swf
+#EXTINF:-1,Ghetto Kid
+rtsp://46.249.213.93/broadcast/ghettokid-tablet.3gp
+#EXTINF:-1,GMG SPORT 1
+rtmp://$OPT:rtmp-raw=rtmp://edge8-2.eu.myvideo.ge/dvrh264/gmgsport/mp4:gmgsport swfUrl=http://www.myvideo.ge/?act=dvrdvr/dvrH.swf?v=1.2 pageUrl=http://www.myvideo.ge/?act=dvr&chan=gmgsport live=1
+#EXTINF:-1,GMM Sport Two HD
+rtmp://$OPT:rtmp-raw=rtmp://58.97.57.150/live playpath=hd04 swfUrl=http://www.one2hd.com/swfs/mediaPlayer/mediaPlayer.swf pageUrl=http://www.one2hd.com/
+#EXTINF:-1,Gmm sportextra
+rtmp://$OPT:rtmp-raw=rtmp://58.97.57.152/live playpath=ch78 swfUrl=http://www.one2hd.com/swfs/mediaPlayer/mediaPlayer.swf pageUrl=http://www.one2hd.com/
+#EXTINF:-1,GOLTV
+rtmp://$OPT:rtmp-raw=rtmp://159.253.145.130/live playpath=186594 swfUrl=http://www.udemy.com/static/flash/player5.9.swf live=1 pageUrl=http://castalba.tv/embed.php?cid=14507&wh=660&ht=394&r=canhome111.blo gspot.com
+#EXTINF:-1,Greece - TileSport LQ
+http://tv1.streampulse.eu:1935/tilesport/movie2/hasbahca.m3u8
+#EXTINF:-1,GREEK Tile Sport Tv
+rtmp://$OPT:rtmp-raw=rtmp://188.40.85.80/tilesport playpath=movie1 swfUrl=http://www.tilesport.tv/embed/mediaplayer.swf live=1 pageUrl=http://greekchannelslive2.blogspot.com/2011/01/tile-sport-tv-greece_4280.html
+#EXTINF:-1,GREEK TileSport HQ
+http://tv1.streampulse.eu:1935/tilesport/movie1/hasbahca.m3u8
+#EXTINF:-1,GREEK TileSport TV
+rtmp://tv1.streampulse.eu/tilesport/movie1
+#EXTINF:-1,HD Extreme
+rtmp://$OPT:rtmp-raw=rtmp://194.63.143.117:80/live/_definst_/ playpath=HDextremeCDN swfUrl=http://tv.kuwait.tt/player.swf pageUrl=http://chainesfoot.blogspot.com/ live=1 conn=S:OK --live
+#EXTINF:-1,HD Extreme
+http://hdimages.cdnvideo.ru/rr/HDextremeCDN/hasbahca.m3u8
+#EXTINF:-1,HUBEI SPORTS
+http://218.202.219.67/channels/xjyx/JinBaoTiYu-Suma/flv:300k_flv
+#EXTINF:-1,JAPAN J SPORTS
+http://widih.modifikasi.com/widih-tv/s-2/jp04.m3u8
+#EXTINF:-1,JSC + 1
+rtmp://$OPT:rtmp-raw=rtmp://206.190.129.12/live playpath=tdsfgdfgdgdds?id=173739 swfUrl=http://mips.tv/content/scripts/eplayer.swf live=1 pageUrl=http://mips.tv/embedplayer/activacion1/1/650/400 conn=S:OK –live
+#EXTINF:-1,JSC+ 4
+rtmp://$OPT:rtmp-raw=rtmp://46.165.210.32/live playpath=eqsrtZTQZTTZ?id=173742 swfUrl=http://mips.tv/content/scripts/eplayer.swf live=1 pageUrl=http://mips.tv/embedplayer/activacion1/1/650/400 conn=S:OK –live
+#EXTINF:-1,JSC+2
+rtmp://$OPT:rtmp-raw=rtmp://85.17.73.7/live playpath=gghfhdhdghdh?id=173741 swfUrl=http://mips.tv/content/scripts/eplayer.swf live=1 pageUrl=http://mips.tv/embedplayer/activacion1/1/650/400 conn=S:OK –live
+#EXTINF:-1,Kanal 75 mms
+mms://qstream-live.qbrick.com/00688live_12
+#EXTINF:-1,KanalSport HD
+http://lswb-de-08.servers.octoshape.net:1935/live/kanalsport_2000k/hasbahca.m3u8
+#EXTINF:-1,KAZ SPOR KAZAKISTAN
+rtmp://onsport.kaztrk.kz/kazsport/sportkaz
+#EXTINF:-1,KORE Car & Sports TV
+http://lm01.everyon.tv:80/ptv/phd253/hasbahca.m3u8
+#EXTINF:-1,KORE KBSnSports     CHINA NETWORK
+http://v.hdplay.cn/live/53357A52616B5A3876334C5042336E6A
+#EXTINF:-1,Kuwait TV CH.3 (Sport)
+rtmp://62.215.183.1/rtmplive/rtpencoder/ch3.sdp
+#EXTINF:-1,Kuwait TV CH.3 (Sport)
+rtmp://62.215.183.1/rtmplive/rtpencoder/ch3.sdp
+#EXTINF:-1,Macau Sport
+rtsp://218.213.227.174:1935/tv/ch4.live
+#EXTINF:-1,Magyar Sport 1
+rtmp://$OPT:rtmp-raw=rtmp://s1.eucaster.com:1935/live playpath=otvnssport1 swfUrl=http://onlinetvnonstop.org/player/jwp/player_huntvs.swf live=1 pageUrl=http://onlinetvnonstop.org/onlinetv
+#EXTINF:-1,MMA BAY TV
+rtmp://extondemand.livestream.com:80/ondemand/trans/dv10/mogulus-user-files/chmmabaytv/2010/09/12/d9fbeee7-79aa-4ec2-98d2-1f1f168b91a3
+#EXTINF:-1,NBA 2
+rtmp://$OPT:rtmp-raw=rtmp://46.246.29.141:1935/stream/K8l9h6j8.stream swfUrl=http://thecdn.04stream.com/p/boopo.swf pageUrl=http://04stream.com/ live=true
+#EXTINF:-1,NBA ENG
+rtmp://extondemand.livestream.com/ondemand/mp4:trans/dv15/mogulus-user-files/chbsnbatv/2011/12/16/6d1c6977-c723-4a5d-8527-77b0234385a0.mp4
+#EXTINF:-1,NBA TV
+rtmp://$OPT:rtmp-raw=rtmp://46.246.29.141:1935/stream/K8l9h6j8.stream swfUrl=http://thecdn.04stream.com/p/boopo.swf pageUrl=http://04stream.com/ live=true
+#EXTINF:-1,NBA USA
+http://nba247.cdnak.nbahd.neulion.com/mobile/nba/nba247/as/live/ipad_1240.m3u8
+#EXTINF:-1,Netherlands EURO SPORT
+http://5.135.128.90:45125
+#EXTINF:-1,NHL Network USA
+http://smb.cdnak.neulion.com/fs/nhl/mobile/iphone/video/nhlnetwork/ipad_1240.m3u8
+#EXTINF:-1,ORF SPORT
+http://194.232.200.128:1935/orfs_q6a/orf.sdp/hasbahca.m3u8
+#EXTINF:-1,ORF Sport HQ
+rtsp://apasfwl.apa.at/orfs_q6a/orf.sdp
+#EXTINF:-1,ORF SPORT+
+rtsp://apasfwl.apa.at/orfs_q6a/orf.sdp
+#EXTINF:-1,ORF SPORT+ LQ
+rtsp://apasfwl.apa.at/orfs_q1a/orf.sdp
+#EXTINF:-1,ORF SPORT+ MQ
+rtsp://apasfwl.apa.at/orfs_q4a/orf.sdp
+#EXTINF:-1,Outdoor Sport
+http://www.brdog.net/brdog_stv/sports/outdoor_sport.asx
+#EXTINF:-1,Portugal Eurosport2
+http://esioslive2-i.akamaihd.net/hls/live/201150/AL_ESP2_INT_ENG/playlist_1800.m3u8
+#EXTINF:-1,PTV SPORT
+rtsp://42.83.84.215/channel72.sdp
+#EXTINF:-1,RAI SPORT (ITA)
+rtsp://streaming.rai.it/Newsvod/x/vod/sport/ultimi/20080607124947mpo40jfnotiziario_sportivo_-rainet.wmv
+#EXTINF:-1,Red Bull Tv
+http://live.iphone.redbull.de.edgesuite.net/iphone.m3u8
+#EXTINF:-1,RTS - Serbia
+rtsp://rts.videostreaming.rs/rts
+#EXTINF:-1,Rubin TV
+rtmp://$OPT:rtmp-raw=rtmp://grey.ether.tv/live/rubin/broadcast4.flv pageUrl=http://www.planeta-online.tv pageUrl=http://www.planeta-online.tv/planeta_player.swf?ver=767 live=1
+#EXTINF:-1,RUS - CNOPT 1
+rtmp://109.68.46.67:80/live/sport1-2.stream
+#EXTINF:-1,RUS - CNOPT 2
+rtmp://109.68.46.67:80/live/sport2-2.stream
+#EXTINF:-1,RUS - CNOPT_1  Sport 1
+http://77.91.77.21:6317/?sid=df9542c4283a5s48b32633f6e53fffe7
+#EXTINF:-1,RUS - EUROSPORT 2
+http://94.242.221.141/hls/a-lo/stream12.m3u8
+#EXTINF:-1,RUS - Extreme_Sports RUS
+http://77.91.77.22:6309/?sid=df9542c4283a5s48b32633f6e53fffe7
+#EXTINF:-1,RUS - NASH FUTBOL
+http://91.109.20.49/hls/7.m3u8
+#EXTINF:-1,RUS - NTV Futbol
+http://91.109.20.49/hls/1.m3u8
+#EXTINF:-1,RUS - NTV Futbol 2
+http://91.109.20.49/hls/3.m3u8
+#EXTINF:-1,RUS - NTV Futbol HD
+http://91.109.20.49/hls/2.m3u8
+#EXTINF:-1,RUS - NTV FUTBOL ONLINE
+http://91.109.20.49/hls/9.m3u8
+#EXTINF:-1,RUS - NTV SPORT PLUS
+http://91.109.20.49/hls/10.m3u8
+#EXTINF:-1,RUS - RUSSIA 2
+http://91.109.20.49/hls/12.m3u8
+#EXTINF:-1,RUS - SKY SPORT 1
+http://91.109.20.49/hls/14.m3u8
+#EXTINF:-1,RUS - Sport 1 RU
+http://91.109.20.49/hls/5.m3u8
+#EXTINF:-1,RUS - Sport 1 RU HD
+http://91.109.20.49/hls/6.m3u8
+#EXTINF:-1,RUS - SPORT PLUS
+http://91.109.20.49/hls/10.m3u8
+#EXTINF:-1,RUS - SUPER TENNIS HD
+http://176.100.108.190:4000/udp/239.1.1.138:1234
+#EXTINF:-1,RUS - Viasat Sport
+http://77.91.77.21:6310/?sid=b12ef7a2e0291d2ad65c00173964d86h
+#EXTINF:-1,RUS - VIASAT SPORT RU
+http://91.109.20.49/hls/13.m3u8
+#EXTINF:-1,RUS Eurosport
+http://176.100.108.190:4000/udp/239.1.1.7:1234
+#EXTINF:-1,RUS Eurosport 2
+http://176.100.108.190:4000/udp/239.1.1.4:1234
+#EXTINF:-1,RUS Eurosport HD
+http://212.164.239.171:1234/udp/233.7.70.132:5000
+#EXTINF:-1,RUS Eurosport News
+http://212.164.239.171:1234/udp/233.7.70.197:5000
+#EXTINF:-1,RUS Extreme Sports Channel
+http://212.164.239.171:1234/udp/233.7.70.147:5000
+#EXTINF:-1,RUS Sport 1 HD Russia
+http://212.164.239.171:1234/udp/233.7.70.131:5000
+#EXTINF:-1,RUS Viasat Sport
+http://176.100.108.190:4000/udp/239.1.1.75:1234
+#EXTINF:-1,RUS Viasat Sport
+http://212.164.239.171:1234/udp/233.7.70.138:5000
+#EXTINF:-1,SBS ESPN Korea
+rtmp://nlive.sbs.co.kr/sbsespnpc?u=sbs/sbsespn3.stream
+#EXTINF:-1,SETANTA IRELAND
+rtmp://$OPT:rtmp-raw=rtmp://178.18.23.113/tivi/ playpath=setanta swfUrl=http://p.jwpcdn.com/6/5/jwplayer.flash.swf live=1 pageUrl=http://www.livedesi.tv/player.php?id=32
+#EXTINF:-1,Setanta Sports
+rtmp://$OPT:rtmp-raw=rtmp://178.18.23.113/tivi/ playpath=setanta swfUrl=http://p.jwpcdn.com/6/5/jwplayer.flash.swf live=1 pageUrl=http://www.livedesi.tv/player.php?id=32
+#EXTINF:-1,Sky Poker
+rtmp://$OPT:rtmp-raw=rtmp://cp67698.live.edgefcs.net/live/SkyPoker_500k@9124 app=live pageUrl=http://www.estadio.in/skypoker swfUrl=http://www.estadio.in/player.swf tcUrl=rtmp://$OPT:rtmp-raw=rtmp://cp67698.live.edgefcs.net/live playPath=SkyPoker_500k@9124 timeout=10rtmp://$OPT:rtmp-raw=rtmp://cp67698.live.edgefcs.net/live/SkyPoker_500k@9124 app=live pageUrl=http://www.estadio.in/skypoker swfUrl=http://www.estadio.in/player.swf tcUrl=rtmp://$OPT:rtmp-raw=rtmp://cp67698.live.edgefcs.net/live playPath=SkyPoker_500k@9124 timeout=10 live=1
+#EXTINF:-1,Sky Sports 1
+rtmp://$OPT:rtmp-raw=rtmp://178.18.23.113/tivi/ playpath=sky1 swfUrl=http://p.jwpcdn.com/6/5/jwplayer.flash.swf live=1 pageUrl=http://www.livedesi.tv/player.php?id=26
+#EXTINF:-1,Sky Sports 2
+rtmp://$OPT:rtmp-raw=rtmp://178.18.23.113/tivi/ playpath=sky2 swfUrl=http://p.jwpcdn.com/6/5/jwplayer.flash.swf live=1 pageUrl=http://www.livedesi.tv/player.php?id=27
+#EXTINF:-1,Sky Sports 3
+rtmp://$OPT:rtmp-raw=rtmp://31.7.58.122:1935/stream/ffe84f5ed.stream swfUrl=http://thecdn.04stream.com/p/bop.swf live=true timeout=10
+#EXTINF:-1,Sky Sports 3
+rtmp://$OPT:rtmp-raw=rtmp://178.18.23.113/tivi/ playpath=sky3 swfUrl=http://p.jwpcdn.com/6/5/jwplayer.flash.swf live=1 pageUrl=http://www.livedesi.tv/player.php?id=28
+#EXTINF:-1,SKY SPORTS ASHED HD
+rtmp://$OPT:rtmp-raw=rtmp://50.7.28.234/flash playpath=16769 swfUrl=http://www.udemy.com/static/flash/player5.9.swf live=1 pageUrl=http://sawlive.tv/embed/watch
+#EXTINF:-1,Sky Sports F1
+rtmp://$OPT:rtmp-raw=rtmp://178.18.23.113/tivi/ playpath=skyf1 swfUrl=http://p.jwpcdn.com/6/5/jwplayer.flash.swf live=1 pageUrl=http://www.livedesi.tv/player.php?id=29
+#EXTINF:-1,skyBUNDESLIGA HD1
+rtmp://$OPT:rtmp-raw=rtmp://46.246.29.162/live playpath=streamhdking112 swfUrl=http://www.udemy.com/static/flash/player5.9.swf live=1 pageUrl=http://www.hdcast.tv/embed2.php?u=c81e728d9ddea94c01d9f2714005070cf4729e6c29e4da3b7fbb&t=1376134150744&vw=720&vh=400 --live
+#EXTINF:-1,Sport 5 TV (Israel)
+rtsp://s3yfl.castup.net:1935/993850065-123.flv/_definst_/_definst_
+#EXTINF:-1,Sport Telemadrid
+http://iphone.telemadrid.es.edgesuite.net/telemadridsat_iphone.m3u8
+#EXTINF:-1,Sport Tonight
+http://freeview.ashttp9.visionip.tv/live/sports_tonight-sports_tonight-live-25f-16x9-HD/hasbahca.m3u8
+#EXTINF:-1,SPORT TV 3
+rtmp://$OPT:rtmp-raw=rtmp://edge.isearch.to/edge/qel2j5ivqguyukj pageUrl=http://www.ilive.to swfUrl=http://player.ilive.to/player_ilive.swf
+#EXTINF:-1,Sport tv2
+rtmp://$OPT:rtmp-raw=rtmp://redbull.micast.tv/liveedge playpath=sporttv2 swfUrl=http://files.mica.st/player.swf pageUrl=http://micast.tv/gens2.php?ch=sporttv2&width=640&height=450 live=1 conn=S:OK --live
+#EXTINF:-1,Sport tv4
+rtmp://$OPT:rtmp-raw=rtmp://redbull.micast.tv/liveedge playpath=sporttv4 swfUrl=http://files.mica.st/player.swf pageUrl=http://micast.tv/gens2.php?ch=sporttv4&width=640&height=450 live=1 conn=S:OK --live
+#EXTINF:-1,Sport CHELSEA TV
+rtmp://$OPT:rtmp-raw=rtmp://cp96798.live.edgefcs.net/live/ playpath=ChelTV_Ch01_1000k@26291 swfUrl=http://player.tv-stream.to/player.swf live=1 pageUrl=http://www.lagerassassin.eu/sport-stream/1/2650.html timeout=10
+#EXTINF:-1,sportitalia24
+rtmp://live.cdnplayer.com:1935/live413/solocalciolive
+#EXTINF:-1,SPORTS HD DK
+http://lswb-de-08.servers.octoshape.net:1935/live/kanalsport_2000k/hasbahca.m3u8
+#EXTINF:-1,Star Cricket
+rtmp://$OPT:rtmp-raw=rtmp://178.18.23.113/tivi/ playpath=starcricket swfUrl=http://p.jwpcdn.com/6/5/jwplayer.flash.swf live=1 pageUrl=http://www.livedesi.tv/player.php?id=38
+#EXTINF:-1,STAR SPORTS
+rtmp://$OPT:rtmp-raw=rtmp://edge.isearch.to/edge/c9ag8b79kecb3l1 pageUrl=http://www.ilive.to swfUrl=http://player.ilive.to/player_ilive.swf
+#EXTINF:-1,Stunt Mayhem
+rtsp://46.249.213.93/broadcast/stuntmayhem2-tablet.3gp
+#EXTINF:-1,Teleromagna Sport
+rtmp://live.teleromagna.it/TeleromagnaLive/teleromagnaSport.stream_360p
+#EXTINF:-1,TEN Action
+rtmp://$OPT:rtmp-raw=rtmp://178.18.23.113/tivi/ playpath=tenaction swfUrl=http://p.jwpcdn.com/6/5/jwplayer.flash.swf live=1 pageUrl=http://www.livedesi.tv/player.php?id=36
+#EXTINF:-1,TEN Sports
+rtmp://$OPT:rtmp-raw=rtmp://178.18.23.113/tivi/ playpath=tensports swfUrl=http://p.jwpcdn.com/6/5/jwplayer.flash.swf live=1 pageUrl=http://www.livedesi.tv/player.php?id=37
+#EXTINF:-1,Trace sport
+rtmp://$OPT:rtmp-raw=rtmp://58.97.57.150/live playpath=hd05 swfUrl=http://www.one2hd.com/swfs/mediaPlayer/mediaPlayer.swf pageUrl=http://www.one2hd.com/
+#EXTINF:-1,Trace Sports
+http://www.brdog.net/brdog_stv/sports/trace_sports.asx
+#EXTINF:-1,Trace Sports
+rtsp://46.249.213.87/broadcast/tracetvsports-tablet.3gp
+#EXTINF:-1,Truesport 2
+rtmp://$OPT:rtmp-raw=rtmp://58.97.57.152/live playpath=ch74 swfUrl=http://www.one2hd.com/swfs/mediaPlayer/mediaPlayer.swf pageUrl=http://www.one2hd.com/
+#EXTINF:-1,Truesport HD
+rtmp://$OPT:rtmp-raw=rtmp://58.97.57.150/live playpath=hd01 swfUrl=http://www.one2hd.com/swfs/mediaPlayer/mediaPlayer.swf pageUrl=http://www.one2hd.com/
+#EXTINF:-1,Tsport
+rtmp://$OPT:rtmp-raw=rtmp://58.97.57.152/live playpath=ch04 swfUrl=http://www.one2hd.com/swfs/mediaPlayer/mediaPlayer.swf pageUrl=http://www.one2hd.com/
+#EXTINF:-1,TURK - FENERBAHCE TV
+rtmp://live.master.cubecdn.net/fbtv/stream1
+#EXTINF:-1,TURK - smart Spor HD
+http://5.135.128.90:45219
+#EXTINF:-1,TURK BURSASPOR TV
+http://stream.yayindayiz.biz/Bursaspor/bursaspor/hasbahca.m3u8
+#EXTINF:-1,TURK GALATASARAY TV
+rtmp://cdn21.motiwe.com/live/gstv370
+#EXTINF:-1,TURK NTV SPOR
+http://doguslive-i.akamaihd.net/hls/live/205605/ntvsporhd/stream3/streamPlaylist.m3u8
+#EXTINF:-1,TURK Sports Tv
+http://stream.sportstv.com.tr:1935/sportstv/SportsTV3/hasbahca.m3u8
+#EXTINF:-1,TURK TJK TV
+rtmp://tjk-l.mncdn.com/tjk/tjk2
+#EXTINF:-1,TURK TRT SPOR
+http://mn-l.mncdn.com/trtspor4/trtspor4/hasbahca.m3u8
+#EXTINF:-1,TV 3 dk mms
+mms://qstream-live.qbrick.com/45266live_TV3DK
+#EXTINF:-1,TV 3 no mms
+mms://qstream-live.qbrick.com/45266live_TV3NO
+#EXTINF:-1,Tv 3+hd
+http://mtg2-live.hls.adaptive.level3.net/mtg/tv3plushd/wifi1000.m3u8
+#EXTINF:-1,TV10 mms
+mms://qstream-live.qbrick.com/45266live_TV10SE
+#EXTINF:-1,TV2 Sport DK mms
+mms://qstream-live.qbrick.com/45266live_TV2SportDK
+#EXTINF:-1,TV3  se mms
+mms://qstream-live.qbrick.com/45266live_TV3SE
+#EXTINF:-1,Tv3sport2 DK mms
+mms://qstream-live.qbrick.com/45266live_TV3Sport2DK
+#EXTINF:-1,UKRAINA HSPORT
+http://109.87.0.29:8888/udp/238.0.0.112:1234
+#EXTINF:-1,UKRAINA SPORT 2 (UKRAINE)
+http://109.87.0.29:8888/udp/238.0.0.169:1234
+#EXTINF:-1,UKRAINA Sport1
+http://109.87.0.29:8888/udp/238.0.0.59:1234
+#EXTINF:-1,UKRAINA XSPORT
+http://188.231.188.23:4022/udp/239.99.4.11:5004
+#EXTINF:-1,VIASAT FOTBALL (SWE) mms
+mms://qstream-live.qbrick.com/45266live_ViasatfotbollNO
+#EXTINF:-1,VIASAT GOLF (SWE) mms
+mms://qstream-live.qbrick.com/45266live_ViasatgolfNO
+#EXTINF:-1,Viasat Hockey mms
+mms://194.14.241.163:1755/45266live_ViasathockeySE?MSWMExt=.asf
+#EXTINF:-1,VIASAT MOTOR HD (SWE) mms
+mms://qstream-live.qbrick.com/45266live_ViasatmotorNO
+#EXTINF:-1,VIASAT SPORT (SWE) mms
+mms://qstream-live.qbrick.com/45266live_ViasatsportNO
+#EXTINF:-1,Viasat4 NO mms
+mms://qstream-live.qbrick.com/45266live_Viasat4NO
+#EXTINF:-1,VIETNAM VTV 3 Sport
+rtmp://$OPT:rtmp-raw=rtmp://m35.megafun.vn/hctv playpath=vstv004?token=OmgpobaicR3HZagKDDd8xA&time=1375431925&q=rtmp swfUrl=http://megafun.vn/common/player/player.swf live=1 pageUrl=http://baoquangninh.com.vn/truyen-hinh/?c=2
+#EXTINF:-1,VIETNAM VTV 3 Sport
+rtmp://$OPT:rtmp-raw=rtmp://m35.megafun.vn/hctv playpath=vstv004?token=OmgpobaicR3HZagKDDd8xA&time=1375431925&q=rtmp swfUrl=http://megafun.vn/common/player/player.swf live=1 pageUrl=http://baoquangninh.com.vn/truyen-hinh/?c=2
+#EXTINF:-1,XILINL [] Sport
+http://212.79.96.134:8014/
+#EXTINF:-1,Xtreme Impacts
+rtsp://46.249.213.93/broadcast/xtremeimpacts-tablet.3gp
