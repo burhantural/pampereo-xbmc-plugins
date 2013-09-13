@@ -107,5 +107,10 @@
  rtmp://livestreaming4.onlinehorizons.net/Learning1/ playpath=livestream swfUrl=http://niletc.tv/player/player.swf pageUrl=http://niletc.tv/stream.php?ch=cinema live=1 swfVfy=1
 #EXTINF:-1,Al Janoubiya
 rtmp://www.teledunet.com:1935/teledunet/ playpath=al_janoubiya swfUrl=http://www.teledunet.com/tv/player.swf?abouttxt=Teledunet&id0=82039289010500&skin=bekle/bekle.xml& pageUrl=http://www.teledunet.com/tv/?channel=al_janoubiya&no_pub live=1 swfVfy=1
+#EXTINF:-1,National Geo AD
+rtmp://www.teledunet.com:1935/teledunet/ playpath=national_geo_ad swfUrl=http://www.teledunet.com/tv/player.swf pageUrl=http://www.teledunet.com/tv/?channel=national_geo_ad&no_pub
+#EXTINF:-1,SpaceToon
+rtmp://www.teledunet.com:1935/teledunet/ playpath=spacetoon swfUrl=http://www.teledunet.com/tv/player.swf pageUrl=http://www.teledunet.com/tv/?channel=national_geo_ad&no_pub
+
  
 
