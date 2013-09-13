@@ -105,4 +105,7 @@
  rtmp://livestreaming4.onlinehorizons.net/NTNNileFamily/ playpath=livestream swfUrl=http://niletc.tv/player/player.swf pageUrl=http://niletc.tv/stream.php?ch=cinema live=1 swfVfy=1
  #EXTINF:-1,Nile Learning
  rtmp://livestreaming4.onlinehorizons.net/Learning1/ playpath=livestream swfUrl=http://niletc.tv/player/player.swf pageUrl=http://niletc.tv/stream.php?ch=cinema live=1 swfVfy=1
+#EXTINF:-1,Al Janoubiya
+rtmp://www.teledunet.com:1935/teledunet/ playpath=al_janoubiya swfUrl=http://www.teledunet.com/tv/player.swf?abouttxt=Teledunet&id0=82039289010500&skin=bekle/bekle.xml& pageUrl=http://www.teledunet.com/tv/?channel=al_janoubiya&no_pub live=1 swfVfy=1
  
+
